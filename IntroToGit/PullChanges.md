@@ -1,4 +1,4 @@
-# Pull Changes
+# Git - Pull Changes
 When you want to retrieve changes from the server, you will have to **pull** those changes down. You can pull changes from a personal or team GitHub repository.
 
 For this activity, create a new file on the server repository. On the repository page, click the "Add file" button and select the "Create new file" option:

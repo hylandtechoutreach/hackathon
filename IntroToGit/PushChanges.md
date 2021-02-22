@@ -1,4 +1,4 @@
-# Push Changes
+# Git - Push Changes
 Typically, most work will be done in the _local clone_ of a repository. When you want to store some changes on your _remote_ repository, you will have to **push** those changes up from the clone. When you push your changes, they will appear on the server.
 
 For this activity, create a new text file in your repository folder. The content of the file does not matter, as long as it is in the proper folder!

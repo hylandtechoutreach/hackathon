@@ -32,6 +32,8 @@ If you have installed Git on your machine, Visual Studio Code has built-in Git t
 1. Once your repository is cloned, a popup should appear in the lower right corner of the window. Click the **Open** button to open the newly cloned repository
     ![](https://i.imgur.com/BrYDU2p.png)
 
+That's it! Now you have a local clone of your repository.
+
 ### Cloning via the Command Line
 If you have Git Bash installed on your machine (or another shell), you can use that for all Git commands.
 
