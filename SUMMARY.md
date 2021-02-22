@@ -2,7 +2,7 @@
 - [Intro to Git](IntroToGit/StudentDesc.md)
   - [Make a GitHub Account](IntroToGit/MakeAGitHubAccount.md)
   - [Hello World](IntroToGit/HelloWorld.md)
-  - [Local Setup](IntroGit/LocalSetup.md)
+  - [Local Setup](IntroToGit/LocalSetup.md)
   - [Push Changes](IntroToGit/PushChanges.md)
   - [Pull Changes](IntroToGit/PullChanges.md)
   - [Resources](IntroToGit/Resources.md)
