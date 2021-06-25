@@ -2,7 +2,7 @@
 To complete this activity, you should have a GitHub account and a repository created. There are instructions here for working with Visual Studio Code, as well as command line instructions. There are several other Git GUIs and integrations, but the options below are recommended.
 
 ## Downloading and Installing Git
-In order to actually clone a GitHub Repository locally, it will be necessary to download and install Git.
+In order to actually clone a GitHub Repository locally, you will have to download and install Git.
 
 - On a Mac or Linux machine, download Git from here: https://git-scm.com/downloads
 - On a Windows machine, download Git from here: https://gitforwindows.org/
