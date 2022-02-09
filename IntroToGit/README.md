@@ -14,8 +14,11 @@ For the next few activities, students will have to follow different instructions
 - [Push a Change from the Clone to the Server Repository](PushChanges.md)
 - [Pull a Change from the Server Repository to the Clone](PullChanges.md)
 
+## More Guided Learning - Merge Changes
+The [Merge Changes](MergeChanges.md) demonstration shows how to deal with merge conflicts when multiple developers are working on the same repository at the same time. It involves some special setup - make sure to import a copy of [this test repository](https://github.com/markbrendanawicz/TEST-REPO) on GitHub, and use that for the walkthrough. There is also a version of the repository after the Instructor Walkthrough portion has been completed: https://github.com/markbrendanawicz/TEST-REPO-TEST.
+
 ## Assessment - Kahoot Quiz
-Toward the end of the session, or after each student has practiced pushing and pulling changes between their clone and server repository, facilitate a [Kahoot Quiz](https://create.kahoot.it/details/intro-to-git-review/65637e11-a02d-4a8a-b24f-73d53316e6e0). Students who place in the top 3 should receive points.
+Toward the end of the session, or after each student has practiced pushing and pulling changes between their clone and server repository and the "Merge Changes" demonstration has been completed, facilitate a [Kahoot Quiz](https://create.kahoot.it/details/intro-to-git-review/65637e11-a02d-4a8a-b24f-73d53316e6e0). Students who place in the top 3 should receive points.
 
 ## Closing - Resources
 Finally, go over some of the [resources](Resources.md) with the students. If they want to use GitHub for their project, but want to learn more about collaboration, make sure to point out the [Learn Git Branching](https://learngitbranching.js.org/) link. It is the first resource listed, and includes an interactive tutorial on branching. Beyond that, the students should feel free to ask any questions, and visit any resources they would like.

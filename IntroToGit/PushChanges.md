@@ -1,7 +1,8 @@
 # Git - Push Changes
 Typically, most work will be done in the _local clone_ of a repository. When you want to store some changes on your _remote_ repository, you will have to **push** those changes up from the clone. When you push your changes, they will appear on the server.
 
-For this activity, create a new text file in your repository folder. The content of the file does not matter, as long as it is in the proper folder!
+## Making a Change
+For this activity, create a new text file in your repository folder. The content of the file does not matter, as long as it is in the proper folder! This is possible in VS Code by going to File->New File, and then saving the file with a proper name.
 
 ## Adding, Committing, and Pushing in Visual Studio Code
 If you have Git installed, Visual Studio Code has some built-in tools that make it easy to interact with your repository. First, make sure you have opened the proper root-level folder for your local repository clone.

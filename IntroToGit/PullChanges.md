@@ -3,11 +3,15 @@ When you want to retrieve changes from the server, you will have to **pull** tho
 
 For this activity, create a new file on the server repository. On the repository page, click the "Add file" button and select the "Create new file" option:
 
-![](https://i.imgur.com/GNNcTrX.png)
+![](https://i.imgur.com/tdhkaO8.png)
 
-Fill out a name and content for the file, enter a commit message, and click the green "Commit new file" button at the bottom of the page:
+Fill out a name and content for the file:
 
-![](https://i.imgur.com/ze40UPZ.png)
+![](https://i.imgur.com/91FKcHl.png)
+
+Enter a commit message, and click the green "Commit new file" button at the bottom of the page:
+
+![](https://i.imgur.com/CdT7I0N.png)
 
 Now there will be a change to pull down from the server to the local clone!
 
