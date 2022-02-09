@@ -14,7 +14,7 @@ Once you have everything downloaded and installed, you can clone your repository
 1. On the right side of your repository page, click the green **Code** button
     - Make sure you are on the **HTTPS** menu
 1. Click the _copy_ icon to copy your repository URL to your clipboard  
-    ![](https://i.imgur.com/ggwFhPd.png)
+    ![](https://i.imgur.com/C7Gmzyn.png)
 
 Depending on which tool you are using, follow the instructions in one of the sections below to complete the cloning process.
 
