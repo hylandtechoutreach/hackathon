@@ -1,3 +1,4 @@
+- [Discord Information](DiscordInformation.md)
 - [Intro to Hackathons](IntroToHackathons/StudentDesc.md)
 - [Intro to Git](IntroToGit/StudentDesc.md)
   - [Make a GitHub Account](IntroToGit/MakeAGitHubAccount.md)
