@@ -1,6 +1,11 @@
 # Intro to Hackathons
 Get ready to participate in this hackathon by reading through the material below!
 
+## Presentation Recording
+<video width="100%" height="450px" controls>
+  <source src="Video.mp4" type="video/mp4">
+</video>
+
 ## PowerPoint Presentation
 <iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechoutreach.github.io/hackathon/IntroToHackathons/Presentation.pptx' width='100%' height='450px' frameborder='0'></iframe>
 
