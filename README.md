@@ -1,5 +1,5 @@
-# Hyland Hackathon 2022
-Welcome to the 2022 Hyland Hackathon!
+# 2022 Hybrid Hyland Hackathon
+Welcome to the 2022 Hybrid Hyland Hackathon!
 
 ## Basic Information
 Check out [this page](BasicInformation.md) to view basic information about the event. If you are attending the event in-person, please take a look at [this page](InPersonInformation.md) as well.

@@ -1,5 +1,5 @@
 # Discord Information
-The Hyland Hackathon will use [Discord](https://discord.com/) as a way for students and mentors to communicate during the event.
+The 2022 Hybrid Hyland Hackathon will use [Discord](https://discord.com/) as a way for students and mentors to communicate during the event.
 
 ## Invite Link
 Join the server by clicking [this link](https://discord.gg/tu9H9yfRkx).
