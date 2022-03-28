@@ -46,8 +46,8 @@ Judges will rank your projects based on four criteria:
 
 - Innovation/Ambition
 - User Interface/User Experience
+- Solution Impact
 - Overall Quality
-- Quality of Pitch/Project Impact
 
 ### 2022 Judges
 There will be an esteemed panel of judges for the event this year:
