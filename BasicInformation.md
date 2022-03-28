@@ -37,12 +37,15 @@ Hyland employees will act as mentors throughout the weekend.
 - They will also act as supervisors throughout the weekend.
 - They will not do your project for you - but they can guide you along the way!
 - You can reach them on [Discord](DiscordInformation.md) by tagging `@mentors`.
+- You can set up a Zoom call with mentors if needed.
 - You can also find them in-person at the Mentor Room.
+
+_Whether virtual or in-person, attendees should never be one-on-one with mentors._
 
 ## Judging Information
 Submit your project by filling out [this form](https://forms.gle/w3NgrLavFCiviGpP7) by 11PM ET on Saturday.
 
-**Remember that each project submitted should ONLY include work that was completed within the weekend.**
+**Remember that each project submitted should ONLY include work that was completed within the weekend.** At the end of the event, teams will have full ownership of the projects they created.
 
 ### Judging Process
 There will only be one round for the judging process.
