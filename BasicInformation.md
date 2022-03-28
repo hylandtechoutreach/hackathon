@@ -72,10 +72,16 @@ There will be an esteemed panel of judges for the event this year:
 Prizes will be awarded to EACH MEMBER of the winning team in each category.
 
 ### First Place
-The first place team in both High School and College will receive either a Nintendo Switch **OR** an Oculus Quest 2.
+The first place team in both High School and College will choose ONE of the following:
+
+- Nintendo Switch **OR**
+- Oculus Quest 2
 
 ### Second Place
-The second place team in both High School and College will receive an Amazon Echo Dot 4 **AND** a Temperature Control Smart Mug.
+The second place team in both High School and College will receive BOTH of the following:
+
+- Amazon Echo Dot 4 **AND**
+- Temperature Control Smart Mug
 
 ## In-Person Information
 Check out [this page](InPersonInformation.md) for information about the in-person event.
