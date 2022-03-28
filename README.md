@@ -10,11 +10,11 @@ Check out [this page](DiscordInformation.md) for information about how Discord w
 ## Schedule
 Check out the [schedule](Schedule.md) to see when things are happening!
 
-## Team & Project Submission
+## Team Name & Project Description Submission
 Fill out the forms below to submit your team and project.
 
-- Complete by 12PM ET on Saturday: [Team Submission Form](https://forms.gle/4yX6CzQ7qqjD87246)
-- Complete by 11PM ET on Saturday: [Project Submission Form](https://forms.gle/w3NgrLavFCiviGpP7)
+- Complete by 12PM ET on Saturday: [Team Name Form](https://forms.gle/4yX6CzQ7qqjD87246)
+- Complete by 11PM ET on Saturday: [Short Project Description Form](https://forms.gle/w3NgrLavFCiviGpP7)
 
 ## Workshop Material
 All material for Hackathon Workshops is available here!
