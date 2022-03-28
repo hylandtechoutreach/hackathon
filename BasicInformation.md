@@ -33,6 +33,14 @@ You can also message on Discord or e-mail [techoutreach@hyland.com](mailto:techo
 ## Judging Information
 Submit your project by filling out [this form](https://forms.gle/w3NgrLavFCiviGpP7) by 11PM ET on Saturday.
 
+### Judging Process
+There will only be one round for the judging process.
+
+- Each team will give their pitch to the panel of judges.
+  - The teams will have 5 minutes to give their pitch.
+- Judges will have 5 minutes to ask questions.
+- Score sheets will be tallied and top teams from the High School and College category will be determined.
+
 ### Assessment Criteria
 Judges will rank your projects based on four criteria:
 
