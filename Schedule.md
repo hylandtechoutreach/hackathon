@@ -24,6 +24,7 @@ _Note: The "Hallway" mentioned is the one immediately south of the Auditorium._
 |----------------|----------------------------------|----------|
 | 9:00AM-10:00AM | Grab-n-Go Breakfast              | Hallway |
 | 12:30PM-1:30PM | Lunch (Sandwiches, Chips, Fruit) | Hallway |
+| 2:00PM-3:00PM  | Test Tech for Presentations      | Auditorium |
 | 3:30PM         | Code Cut Off                     | Workstations |
 | 4:00PM         | Judging Begins                   | Auditorium |
 | 6:00PM-6:30PM  | Dinner (Pasta, Rolls, Salad)     | Hallway |
