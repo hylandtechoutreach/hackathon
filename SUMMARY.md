@@ -1,4 +1,7 @@
+- [Basic Information](BasicInformation.md)
+  - [In-Person Information](InPersonInformation.md)
 - [Discord Information](DiscordInformation.md)
+- [Schedule](Schedule.md)
 - [Intro to Hackathons](IntroToHackathons/StudentDesc.md)
 - [Intro to Git](IntroToGit/StudentDesc.md)
   - [Make a GitHub Account](IntroToGit/MakeAGitHubAccount.md)

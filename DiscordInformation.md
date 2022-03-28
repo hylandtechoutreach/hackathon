@@ -1,6 +1,9 @@
 # Discord Information
 The Hyland Hackathon will use [Discord](https://discord.com/) as a way for students and mentors to communicate during the event.
 
+## Invite Link
+Join the server by clicking [this link](https://discord.gg/tu9H9yfRkx).
+
 ## Parental Consent Form Agreement 
 As noted in the parental consent form that was signed by Parents or Guardians, each student has agreed to the following regarding the use of Discord: 
 
@@ -42,9 +45,6 @@ This channel is for questions specifically related to git.
 
 ### TEAM CHANNELS
 Once teams are formed, the Team Channels category will include channels for each individual team (if necessary). These will be especially helpful for virtual attendees.
-
-## Invite Link
-Join the server by clicking [this link](https://discord.gg/tu9H9yfRkx).
 
 ## Setup
 To use Discord, you must first set it up. Start by clicking the invite link, and then follow the steps below.
