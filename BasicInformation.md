@@ -47,8 +47,9 @@ Submit your project by filling out [this form](https://forms.gle/w3NgrLavFCiviGp
 ### Judging Process
 There will only be one round for the judging process.
 
-- Each team will give their pitch to the panel of judges.
-  - The teams will have 5 minutes to give their pitch.
+- Each team will give their pitch to the panel of judges in the Auditorium.
+  - Teams should prepare ahead of time and test their tech to make sure it works in the room.
+  - Teams will have 5 minutes to give their pitch.
 - Judges will have 5 minutes to ask questions.
 - Score sheets will be tallied and top teams from the High School and College category will be determined.
 
