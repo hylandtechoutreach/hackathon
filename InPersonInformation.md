@@ -52,7 +52,7 @@ You are welcome to leave Hyland and return as you wish.
 - Make sure you sign in/out with a mentor's sign-off.
 - Do NOT leave without ensuring that the mentors are aware.
 - You can find a mentor at the Mentor's Room or by tagging `@mentors` on [Discord](DiscordInformation.md).
-  - You can also contact a member of the Tech Outreach Team
+  - You can also contact a member of the Tech Outreach Team.
 
 ## Rules
 Please follow all the rules of the event, or you may be removed and banned from attending future events.
