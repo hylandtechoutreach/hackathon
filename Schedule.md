@@ -1,7 +1,7 @@
 # Schedule
 View the schedule below!
 
-_Note: The "Hallway" mentioned is the one immediately south of the Auditorium._
+_Note: The "Hallway" mentioned is the one immediately outside of the Auditorium doors._
 
 ## Saturday, April 2nd
 
@@ -12,11 +12,11 @@ _Note: The "Hallway" mentioned is the one immediately south of the Auditorium._
 | 10:00AM         | Kick-Off Presentation                   | Auditorium |
 | 10:30AM         | Hacking Begins                          | Workstations |
 | 11:00AM-12:00PM | Intro to Git Workshop                   | Auditorium |
-| 12:00PM         | [Team Submissions Due](https://forms.gle/4yX6CzQ7qqjD87246) | Workstations |
+| 12:00PM         | [Team Names Due](https://forms.gle/4yX6CzQ7qqjD87246) | Workstations |
 | 12:30PM-1:30PM  | Lunch (Jet's Pizza + Salad)             | Hallway |
 | 6:30PM-7:30PM   | Dinner (Chicken Tenders + Mac n Cheese) | Hallway |
 | 8:30PM          | Skribbl.io Game                         | Auditorium |
-| 11:00PM         | [Project Submissions Due](https://forms.gle/w3NgrLavFCiviGpP7) | Workstations |
+| 11:00PM         | [Short Project Descriptions Due](https://forms.gle/w3NgrLavFCiviGpP7) | Workstations |
 
 ## Sunday, April 3rd
 
