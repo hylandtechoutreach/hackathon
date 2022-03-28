@@ -30,8 +30,19 @@ At least one member of the Tech Outreach Team will be on-duty at all times throu
 
 You can also message on Discord or e-mail [techoutreach@hyland.com](mailto:techoutreach@hyland.com).
 
+## Mentors
+Hyland employees will act as mentors throughout the weekend.
+
+- They have a variety of skill sets and topic expertise.
+- They will also act as supervisors throughout the weekend.
+- They will not do your project for you - but they can guide you along the way!
+- You can reach them on [Discord](DiscordInformation.md) by tagging `@mentors`.
+- You can also find them in-person at the Mentor Room.
+
 ## Judging Information
 Submit your project by filling out [this form](https://forms.gle/w3NgrLavFCiviGpP7) by 11PM ET on Saturday.
+
+**Remember that each project submitted should ONLY include work that was completed within the weekend.**
 
 ### Judging Process
 There will only be one round for the judging process.
