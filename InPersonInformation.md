@@ -53,6 +53,7 @@ You are welcome to leave Hyland and return as you wish.
 - Do NOT leave without ensuring that the mentors are aware.
 - You can find a mentor at the Mentor's Room or by tagging `@mentors` on [Discord](DiscordInformation.md).
   - You can also contact a member of the Tech Outreach Team.
+- **If you leave for the night on Saturday, be sure to return by 9AM ET on Sunday for the Day 2 Kick-Off.**
 
 ## Rules
 Please follow all the rules of the event, or you may be removed and banned from attending future events.
