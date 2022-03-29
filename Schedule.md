@@ -9,7 +9,7 @@ _Note: The "Hallway" mentioned is the one immediately outside of the Auditorium 
 |-----------------|-----------------------------------------|----------|
 | 9:00AM          | Doors Open                              | Employee & Training Entrance |
 | 9:30AM-11:00AM  | Grab-n-Go Breakfast                     | Hallway |
-| 10:00AM         | Kick-Off Presentation                   | Auditorium |
+| 10:00AM         | Event  Kick-Off                         | Auditorium |
 | 10:30AM         | Hacking Begins                          | Workstations |
 | 11:00AM-12:00PM | Intro to Git Workshop                   | Auditorium |
 | 12:00PM         | [Team Names Due](https://forms.gle/4yX6CzQ7qqjD87246) | Workstations |
@@ -22,6 +22,7 @@ _Note: The "Hallway" mentioned is the one immediately outside of the Auditorium 
 
 | Time (ET)      | Event                            | Location |
 |----------------|----------------------------------|----------|
+| 9:00AM-9:15AM  | Day 2 Kick-Off                   | Auditorium |
 | 9:00AM-10:00AM | Grab-n-Go Breakfast              | Hallway |
 | 12:30PM-1:30PM | Lunch (Sandwiches, Chips, Fruit) | Hallway |
 | 2:00PM-3:00PM  | Test Tech for Presentations      | Auditorium |

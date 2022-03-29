@@ -42,6 +42,13 @@ Hyland employees will act as mentors throughout the weekend.
 
 _Whether virtual or in-person, attendees should never be one-on-one with mentors._
 
+## Schedule
+Be sure to check out the [Schedule](Schedule.md) to make sure you stay aware of important happenings throughout the weekend! There are some events you _must_ attend, so make a note of those:
+
+- Saturday 10AM ET: Event Kick-Off
+- Sunday 9AM ET: Day 2 Kick-Off
+- Sunday 4PM ET: Judging
+
 ## Judging Information
 Submit your project by filling out [this form](https://forms.gle/w3NgrLavFCiviGpP7) by 11PM ET on Saturday.
 
