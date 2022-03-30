@@ -13,7 +13,7 @@ _Note: The "Hallway" mentioned is the one immediately outside of the Auditorium 
 | 10:30AM         | Hacking Begins                          | Workstations |
 | 11:00AM-12:00PM | Intro to Git Workshop                   | Auditorium |
 | 12:00PM         | [Team Names Due](https://forms.gle/4yX6CzQ7qqjD87246) | Workstations |
-| 12:30PM-1:30PM  | Lunch (Jet's Pizza + Salad)             | Hallway |
+| 1:00PM-2:00PM   | Lunch (Jet's Pizza + Salad)             | Hallway |
 | 6:30PM-7:30PM   | Dinner (Chicken Tenders + Mac n Cheese) | Hallway |
 | 8:30PM          | Skribbl.io Game                         | Auditorium |
 | 11:00PM         | [Short Project Descriptions Due](https://forms.gle/w3NgrLavFCiviGpP7) | Workstations |

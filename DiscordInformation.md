@@ -12,6 +12,7 @@ As noted in the parental consent form that was signed by Parents or Guardians, e
 ## Additional Guidelines
 - The usage of Discord is **not** required. If you do not want to use it, you will still be able to participate in the Hackathon.
 - You must use your _real first and last name_ when communicating on Discord. If we see an account that does not have a real student name, the account will be kicked out.
+    - Follow [these instructions](https://support.discord.com/hc/en-us/articles/219070107-Server-Nicknames) to update your Server Nickname.
 - If you say anything inappropriate, you will be banned from the server and may be removed from the event.
 - Please be respectful of all attendees and mentors while communicating on Discord.
 - Mentors will check Discord frequently, so feel free to post any time! Tag the `@mentors` role to reach them.
