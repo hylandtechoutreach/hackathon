@@ -40,10 +40,10 @@ Activities and Workstations will be located on the 1st floor, in the core of Bui
 ![](HackathonMap.png)
 
 ## Wi-Fi
-Connect to the **HylandGuest** Wi-Fi network, and enter the following credentials:
+Connect to the **Hackathon** Wi-Fi network, and enter the following credentials:
 
-- Username: **training**
-- Password: **learning!**
+- Password: **HylandSoftware!**
+  - _Note that the Password is case-sensitive_
 
 ## Coming & Going
 You are welcome to leave Hyland and return as you wish.
