@@ -39,6 +39,7 @@ Hyland employees will act as mentors throughout the weekend.
 - You can reach them on [Discord](DiscordInformation.md) by tagging `@mentors`.
 - You can set up a Zoom call with mentors if needed.
 - You can also find them in-person at the Mentor Room.
+- Check out the [Mentor Shifts](MentorShifts.md) to see which mentors are on duty.
 
 _Whether virtual or in-person, attendees should never be one-on-one with mentors._
 

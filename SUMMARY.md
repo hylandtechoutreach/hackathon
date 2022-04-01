@@ -1,4 +1,5 @@
 - [Basic Information](BasicInformation.md)
+  - [Mentor Shifts](MentorShifts.md)
   - [In-Person Information](InPersonInformation.md)
 - [Discord Information](DiscordInformation.md)
 - [Schedule](Schedule.md)
