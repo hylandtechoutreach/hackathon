@@ -2,7 +2,9 @@
 Welcome to the 2022 Hybrid Hyland Hackathon!
 
 ## Basic Information
-Check out [this page](BasicInformation.md) to view basic information about the event. If you are attending the event in-person, please take a look at [this page](InPersonInformation.md) as well.
+Check out [this page](BasicInformation.md) to view basic information about the event.
+
+If you are attending the event in-person, please take a look at [this page](InPersonInformation.md) as well.
 
 ## Zoom Information
 Virtual students should join the Zoom Meeting to participate in Auditorium events like the kick-off, workshops, activities, judging, and more!
@@ -16,7 +18,7 @@ The meeting ID is **959 4594 0404**, and the password is **146786**.
 Check out [this page](DiscordInformation.md) for information about how Discord will be used throughout the event.
 
 ## Schedule
-Check out the [schedule](Schedule.md) to see when things are happening!
+Check out the [schedule](Schedule.md) to see when things are happening. You can also view the [Mentor Shifts](MentorShifts.md) to see when mentors will be around to help.
 
 ## Team Name & Project Description Submission
 Fill out the forms below to submit your team and project.
