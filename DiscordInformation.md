@@ -2,7 +2,7 @@
 The 2022 Hybrid Hyland Hackathon will use [Discord](https://discord.com/) as a way for students and mentors to communicate during the event.
 
 ## Invite Link
-Join the server by clicking [this link](https://discord.gg/tu9H9yfRkx).
+The invite link has expired. If you need to join the Discord Server, please e-mail techoutreach@hyland.com or ask a mentor.
 
 ## Parental Consent Form Agreement 
 As noted in the parental consent form that was signed by Parents or Guardians, each student has agreed to the following regarding the use of Discord: 
