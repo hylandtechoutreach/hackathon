@@ -1,6 +1,9 @@
 # 2022 Hybrid Hyland Hackathon
 Welcome to the 2022 Hybrid Hyland Hackathon!
 
+## Feedback Survey
+We are always striving to make our programs better with each new iteration. Please complete [this survey](https://forms.gle/bZ5iRV4pBosihV8j6) to tell us about your Hackathon experience!
+
 ## Basic Information
 Check out [this page](BasicInformation.md) to view basic information about the event.
 
