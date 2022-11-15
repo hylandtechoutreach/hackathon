@@ -3,6 +3,7 @@ on: [push]
 
 jobs:
   build:
+    if: github.ref == 'refs/heads/main'
     name: Build Gitbook
     runs-on: ubuntu-latest
     steps:
