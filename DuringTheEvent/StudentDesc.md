@@ -24,7 +24,7 @@ As you're off exploring new landscapes of programming prowess, you might find th
 ## Judging & Prizes
 Newly discovered knowledge might be its own reward, but it is not the only possible reward for this competition. If you want to win a prize, you'll want to know how the competition will be judged.
 
-[Click here for information about Judging & Prizes.](JudgingAndPrizes.md).
+[Click here for information about Judging & Prizes.](JudgingAndPrizes.md)
 
 ## Activities
 There are workshops and sessions scheduled throughout the weekend.

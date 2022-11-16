@@ -1,7 +1,9 @@
 # Tracks
 _Choose your destiny and tailor your Hackathon experience to your specific interests and knowledge._
 
-Each participant should select one track to follow for the duration of the event. There will be features and functions designed specifically for members of each track, but don't worry: selecting one track or another will not limit your possibilities. The tracks are simply meant to guide you through the Hackathon and give you 
+Each participant should select one track to follow for the duration of the event. There will be features and functions designed specifically for members of each track, but don't worry; selecting one track or another will not limit your possibilities. The tracks are simply meant to guide you through the Hackathon and give you an idea of what to do.
+
+Members of a team can all choose the same track, or all chose different ones. Anything is possible.
 
 ## Explorer 🚀
 This track is for students who are just beginning their voyage into the world of software development! They should be eager to learn and grow their skills. Any student who has less than a moderate amount of programming experience should select this track.
