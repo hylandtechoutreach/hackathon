@@ -1,5 +1,5 @@
 # Before the Event
-_You were brave enough to register for the Hackathon; now you must prepare._
+_You were brave enough to register for the Hackathon; now you must prepare._ # TODO: Update Code of Conduct form
 
 ## Preparation Checklist
 - Complete the [Code of Conduct Form](https://unityforms.onbase.com/HSIDB/UnityForm.aspx?d1=AY1z5Pu%2faZlXrw6UnGxGhuVtzCZlt2vsySj7JPZiHUdx2I94aj6AOQ5qrYvncpN5gdojlXrB%2fJND4H5ntrwNZU68igNwL%2bQBH6I4vVlC70bIYr4v90A8Jj53HCXRETTmz2qZf0EuHqoFRfqW5Rp6APfIWbG1P%2bFNPfNRKkPidLur8ewiZM9nbzhesvcJYbY0KYPfsao5%2fOVroqT79H9X1I0BsqaYJAvBQDrxYeKm%2bcc5hLUB4rhwAPTVdEzaKWFwYQ%3d%3d)
