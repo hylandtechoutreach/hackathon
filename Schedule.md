@@ -27,7 +27,7 @@ Note that any function marked with a plus (**+**) is **mandatory**.
 | 12:00PM-1:00PM  | Lunch                          | Hallway         |
 | 1:00PM-1:45PM   | Creating Pixel Art 🚀🖌️                      | Auditorium/Zoom |
 | 2:00PM-2:30PM   | Unlocking the Command Line 🚀🧪                | Auditorium/Zoom |
-| 3:00PM-3:30PM | Eye-opening OpenAI Session | Auditorium/Zoom |
+| 3:00PM-3:30PM | Eye-opening OpenAI Session 🚀🖌️🧪 | Auditorium/Zoom |
 | 4:00-4:30PM | Knockout/Hooping | Meet by Hallway |
 | 6:30PM-7:30PM   | Dinner                         | Hallway         |
 | 8:30PM-9:00PM   | Programming Synthwave Music 🚀🖌️🧪                     | Auditorium/Zoom |
