@@ -149,6 +149,6 @@
     border-color: black;
 }
 
-a.gitbook-link {
+.book-summary ul.summary li a.gitbook-link {
     display: none;
 }
