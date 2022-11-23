@@ -28,9 +28,7 @@ _Note: The "Hallway" location is the one immediately outside of the Auditorium d
 | 12:30PM-1:30PM  | Lunch (Jet's Pizza + Salad)             | Hallway |
 | 6:30PM-7:30PM   | Dinner (Chicken Tenders + Mac n Cheese) | Hallway |
 | 8:30PM          | Skribbl.io Game                         | Auditorium/Zoom |
-| **11:00PM**         | **+ Short Project Descriptions Due ([form]()) +**  | **Workstations** |
-
-TODO: Project Submission Form
+| **11:00PM**         | **+ Short Project Descriptions Due ([form](https://forms.gle/1C5tdUv1ZaMbuEbK6)) +**  | **Workstations** |
 
 ## Sunday, April 3rd
 

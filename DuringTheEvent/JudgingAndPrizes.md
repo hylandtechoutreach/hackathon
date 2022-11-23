@@ -4,7 +4,7 @@ _Face the ultimate judgment, and reap the splendid rewards of your impeccable ef
 ## Project Submission
 In order to be considered, **you must submit your project by 8AM ET on Sunday.** # TODO: Project Submission Time
 
-[Click here to access the form and present yourself before the council.]() # TODO: Project Submission Form
+[Click here to access the form and present yourself before the council.](https://forms.gle/1C5tdUv1ZaMbuEbK6)
 
 ## Judging Process
 There will only be one round of judgment.
