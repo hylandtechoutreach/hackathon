@@ -4,7 +4,7 @@ _Communication is key._
 We will use [Discord](https://discord.com/) as a way for students and mentors to communicate during the event.
 
 ## Invite Link
-[Click here to join the Discord Server.]() # TODO: Discord Invite Link
+[Click here to join the Discord Server.](https://discord.gg/ah6678uzWA)
 
 ## Parental Consent Form Agreement 
 As noted in the parental consent form that was signed by Parents or Guardians, each student has agreed to the following regarding the use of Discord: 
@@ -19,7 +19,7 @@ As noted in the parental consent form that was signed by Parents or Guardians, e
     - Follow [these instructions](https://support.discord.com/hc/en-us/articles/219070107-Server-Nicknames) to update your Server Nickname
 - If you say anything inappropriate, you will be banned from the server and may be removed from the event
 - Please be respectful of all attendees and mentors while communicating on Discord
-- [Mentors](Mentor.md) will check Discord frequently, so feel free to post any time
+- [Mentors](DuringTheEvent/Mentors.md) will check Discord frequently, so feel free to post any time
     - Tag the `@mentors` role to reach them
 
 Review the information below if you need help getting into Discord for the first time, or you want to learn about the operation and structure of the Hackathon server.
@@ -63,26 +63,48 @@ There are several channels in the server. Please be mindful of each channel's pu
 ### PREP CHANNELS
 These channels are meant to be used before the event begins.
 
+#### welcome
+Say hi in this channel!
+
 #### find-a-team
 Use this channel to find a team! Feel free to post your name, school, grade level, and coding experience. Then, try to find other attendees who would make good teammates.
 
-#### event-questions
+#### prep-questions
 Use this channel to ask questions about the logistics of the event, before it begins.
 
 ### EVENT CHANNELS
 These channels are meant to be used during the event.
 
 #### announcements
-Mentors will post important messages in this channel. Attendees will not be able to post.
+The event coordinators will post event announcements in this channel - keep your eyes peeled for important information.
 
 #### general
-This channel is reserved for general chat. Feel free to use it to talk about the Hackathon with fellow attendees.
+This channel is reserved for general chat. Get to know your fellow participants, and discuss your Hackathon experience!
 
 #### questions
-Attendees should ask questions about their project development in this channel. Mentors (and other attendees) will do their best to answer these questions. Note that the answers to the questions should be focused on learning; try to use leading questions or background explanations rather than simply providing code solutions.
+Have a question about the event, or about your project development? Post it here, and event coordinators, mentors, and fellow participants might be able to help you out.
+
+#### in-person
+This channel is for students attending the event **in-person** at Hyland HQ.
+
+#### virtual
+This channel is for students attending the event **virtually**.
+
+### TRACK CHANNELS
+Once you select a track, you'll be able to chat with other participants from the same track in one of these channels:
+
+- **explorer**
+- **artisan**
+- **scientist**
+
+### OFF TOPIC CHANNELS
+These channels are strictly for fun!
 
 #### counting
-This channel is for counting. Post sequential whole numbers without anyone posting twice in a row.
+This channel is for counting. Post sequential whole numbers, and do not post two numbers in a row.
+
+#### counting-discussion
+Discuss the happenings of the `#counting` channel.
 
 ### TEAM CHANNELS
-Once teams are formed, the Team Channels category will include channels for each individual team (if necessary). These will be especially helpful for virtual attendees.
+Once teams are formed, the Team Channels category will include channels for each individual team (if necessary). These will be especially helpful for virtual attendees. Let us know if you need us to create a Voice channel for you!
