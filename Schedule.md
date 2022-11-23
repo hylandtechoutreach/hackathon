@@ -12,13 +12,11 @@ Needs to be updated # TODO: Schedule
 | 4:00PM          | Doors Open                              | Employee & Training Entrance |
 | **5:00PM**          | **+ Event Kick-Off +**                    | **Auditorium/Zoom** |
 | 5:30PM          | Hacking Begins                          | Workstations |
-| **7:30PM**          | **+ Team Names Due ([form]()) +**  | **Workstations** |
+| **7:30PM**          | **+ Team Names Due ([form](https://forms.gle/Cagf9asvZiosew8R6)) +**  | **Workstations** |
 | 6:30PM-7:30PM   | Dinner (Chicken Tenders + Mac n Cheese) | Hallway |
 | 9:00PM          | Drawasaurus Game                        | Auditorium/Zoom |
 
 _Note: The "Hallway" location is the one immediately outside of the Auditorium doors_
-
-TODO: Team Submission Form
 
 ## Saturday, January 7th
 
