@@ -17,4 +17,4 @@ There will also be a team building activity where you can start to build connect
 ## Submitting your Team
 Once you've gathered your compatriots, you will need to fill out a form to make it official. This form will bind you together for all eternity, ensuring that you will remain tethered to one another forever, no matter what. For your team to be eligible for the competition, **this form must be submitted by 7PM ET on Friday.** # TODO: Team Submission Time
 
-[Click here to access the form and seal your fate.]() # TODO: Team Submission Form
+[Click here to access the form and seal your fate.](https://forms.gle/Cagf9asvZiosew8R6)
