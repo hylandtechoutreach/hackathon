@@ -1,5 +1,4 @@
-<!--<img src="Assets/Welcome.png" />-->
-# 2023 Hyland Hackathon
+<img src="Assets/Welcome.png" />
 
 #### [Zoom](ZoomInformation.md) | [Discord](DiscordInformation.md) | [Schedule](Schedule.md) | [Tracks](Tracks.md) | [Travel](GettingToHyland.md) | [Contact](Contact.md) |
 
