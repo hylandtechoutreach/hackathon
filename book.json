@@ -1,3 +1,4 @@
 {
-    "plugins": ["toggle-chapters"]
+    "plugins": ["toggle-chapters"],
+    "title": "Hack Hyland 2023"
 }
