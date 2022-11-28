@@ -8,7 +8,7 @@ _Friday 1/6, 5:30PM-6:30PM_
 
 Get to know your fellow participants in this team-building session! There will be icebreakers, games, and important introductory information for first-time hackers.
 
-[Click here for activity materials.](IntroToHackathonsSession/StudentDesc.md)
+[Click here for activity materials.](HackyHour/StudentDesc.md)
 
 ## Session: Choosing a Tech Stack 🧪
 _Friday 1/6, 6:30PM-7:00PM_
