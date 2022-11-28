@@ -31,6 +31,7 @@
     - [Follow-Along](Activities/PixelArtWorkshop/GameAnimation.md)
     - [Challenges](Activities/PixelArtWorkshop/AnimationChallenges.md)
   - [Command Line](Activities/CommandLineWorkshop/StudentDesc.md)
+    - [More Commands](Activities/CommandLineWorkshop/MoreCommands.md)
   - [Programming Synthwave](Activities/ProgrammingSynthwaveSession/StudentDesc.md)
   - [Presentations](Activities/PresentationsWorkshop/StudentDesc.md)
 - [Contact](Contact.md)
