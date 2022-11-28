@@ -1,5 +1,8 @@
-# Piskel
-This session covers [Piskel](http://piskelapp.com) for pixel art, and a JavaScript game that uses the pixel art assets.
+# Workshop: Creating Pixel Art
+This workshop introduces [Piskel](http://piskelapp.com) as a tool to create pixel art!
+
+## Pixel Art Examples
+[Click here to see some examples of pixel art.](PixelArtExamples.md)
 
 ## Piskel Demo
 [Click here to learn about some of the tools and capabilities of Piskel.](PiskelDemo.md)

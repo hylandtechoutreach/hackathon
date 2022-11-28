@@ -1,5 +1,5 @@
 # Animation Challenges
-After completing the [Game Animation Follow-Along](GameAnimation.md), work on some of these challenges. There are a few different options; feel free to get creative and do whatever you want to do with Piskel and/or the platformer game!
+After completing the [Game Animation Follow-Along Activity](GameAnimation.md), work on some of these challenges. There are a few different options; feel free to get creative and do whatever you want to do with Piskel and/or the platformer game!
 
 Click the links below to scroll to one of the options on this page.
 
@@ -72,7 +72,7 @@ Follow the steps below to import the coin sprite.
 <img src="coin_animated.png" style="border: 1px solid black" width="300px">
 
 1. Right click the picture above and select "Save image as..."
-1. Save the image on your computer with **coin_animated.png** as the name
+1. Save the image on your computer with **coin_animated.png** as the namPlae
 1. Open a new web browser tab, and go to [www.piskelapp.com](https://www.piskelapp.com)
 1. Click the "Create Sprite" button  
     ![](Assets/CreateSprite.png)

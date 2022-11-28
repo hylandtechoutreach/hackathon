@@ -18,13 +18,13 @@ Draw individual pixels.
 
 Draw the same on the left and right.
 
-#### Paint bucket
+#### Paint Bucket
 
 ![](Assets/PaintBucket.png)
 
 Fill in a closed shape with a color.
 
-#### Paint all pixels of the same color
+#### Paint All Pixels of the Same Color
 
 ![](Assets/PaintSameColor.png)
 
@@ -61,7 +61,7 @@ There are several additional tools as well -  feel free to play around with them
 ## Other Options
 There are several other ways to create pixel art beyond using the drawing tools.
 
-#### Color picker
+#### Color Picker
 
 ![](Assets/ColorPicker.png)
 

@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <title>Creating Pixel Art · Hack Hyland 2023</title>
+        <title>Follow-Along · Hack Hyland 2023</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="">
         <meta name="generator" content="GitBook 3.2.3">
@@ -63,10 +63,10 @@
     <link rel="shortcut icon" href="../../gitbook/images/favicon.ico" type="image/x-icon">
 
     
-    <link rel="next" href="PixelArtExamples.html" />
+    <link rel="next" href="AnimationChallenges.html" />
     
     
-    <link rel="prev" href="../IntroToGitWorkshop/Resources.html" />
+    <link rel="prev" href="PiskelDemo.html" />
     
 
     </head>
@@ -465,7 +465,7 @@
             
         </li>
     
-        <li class="chapter active" data-level="1.9.6" data-path="StudentDesc.html">
+        <li class="chapter " data-level="1.9.6" data-path="StudentDesc.html">
             
                 <a href="StudentDesc.html">
             
@@ -505,7 +505,7 @@
             
         </li>
     
-        <li class="chapter " data-level="1.9.6.3" data-path="GameAnimation.html">
+        <li class="chapter active" data-level="1.9.6.3" data-path="GameAnimation.html">
             
                 <a href="GameAnimation.html">
             
@@ -623,7 +623,7 @@
     <!-- Title -->
     <h1>
         <i class="fa fa-circle-o-notch fa-spin"></i>
-        <a href="../.." >Creating Pixel Art</a>
+        <a href="../.." >Follow-Along</a>
     </h1>
 </div>
 
@@ -638,16 +638,74 @@
     
                                 <section class="normal markdown-section">
                                 
-                                <h1 id="workshop-creating-pixel-art">Workshop: Creating Pixel Art</h1>
-<p>This workshop introduces <a href="http://piskelapp.com" target="_blank">Piskel</a> as a tool to create pixel art!</p>
-<h2 id="pixel-art-examples">Pixel Art Examples</h2>
-<p><a href="PixelArtExamples.html">Click here to see some examples of pixel art.</a></p>
-<h2 id="piskel-demo">Piskel Demo</h2>
-<p><a href="PiskelDemo.html">Click here to learn about some of the tools and capabilities of Piskel.</a></p>
-<h2 id="game-animation-follow-along">Game Animation Follow-Along</h2>
-<p><a href="GameAnimation.html">Click here to see how to put a custom animation into an existing game.</a></p>
-<h2 id="self-paced-work">Self-Paced Work</h2>
-<p><a href="AnimationChallenges.html">Click here for the self-paced challenges.</a></p>
+                                <h1 id="game-animation">Game Animation</h1>
+<p>Artists often create pixel art animations to be used in retro-style games. Follow the instructions to modify an existing game with new custom art! Google Chrome is recommended for this activity.</p>
+<blockquote>
+<p><em>Note that a Repl account is required to participate in this follow-along.</em></p>
+</blockquote>
+<h2 id="the-existing-game">The Existing Game</h2>
+<p>For the purposes of this exercise, there is an existing game within a Repl project to use. Start by creating a fork of the game, and playing it.</p>
+<ol>
+<li>Go to the <a href="https://replit.com/@HylandOutreach/PlatformerWave" target="_blank">Existing Game Repl Project</a></li>
+<li>Click the &quot;Fork Repl&quot; button in the upper right</li>
+<li>In the bottom-right of the pop-up, click the &quot;Fork Repl&quot; button</li>
+<li>Click the &quot;Run&quot; button to run the game</li>
+<li>Expand the Preview area so there is room to play the game</li>
+</ol>
+<p><img src="Assets/ExistingGamePreview.png" alt=""></p>
+<p>Play through the game to see how it works!</p>
+<h2 id="modifying-the-player-walk-cycle">Modifying the Player Walk Cycle</h2>
+<p>Next, create your own version of the player walk cycle. At this point, try not to change too much - it will always be possible to come back and further customize the player.</p>
+<h3 id="importing-the-existing-player">Importing the Existing Player</h3>
+<p>Follow the steps below to import the player sprite.</p>
+<p><img src="player.png" style="border: 1px solid black" width="300px"></p>
+<ol>
+<li>Right click the picture above and select &quot;Save image as...&quot;</li>
+<li>Save the image on your computer with <strong>player.png</strong> as the name</li>
+<li>Open a new web browser tab, and go to <a href="https://www.piskelapp.com" target="_blank">www.piskelapp.com</a></li>
+<li>Click the &quot;Create Sprite&quot; button<br> <img src="Assets/CreateSprite.png" alt=""></li>
+<li>In the sprite editor, on the right, click the &quot;IMPORT&quot; folder icon<br> <img src="Assets/Import.png" alt=""></li>
+<li>In the menu that appears, click the &quot;Browse images&quot; button<br> <img src="Assets/BrowseImages.png" alt=""></li>
+<li>Find the saved <strong>player.png</strong> file and select it for opening</li>
+<li>Select the &quot;Import as spritesheet&quot; option<br> <img src="Assets/ImportPlayerAsSpritesheet.png" alt=""></li>
+<li>Set the Frame size to 32 x 32</li>
+<li>Click the &quot;import&quot; button<br> <img src="Assets/ImportButtonPlayer.png" alt=""></li>
+<li>If a pop-up appears asking if you want to continue, click the &quot;OK&quot; button</li>
+</ol>
+<p>Now the four frames of the player sprite should be ready for editing!</p>
+<h3 id="modifying-the-player">Modifying the Player</h3>
+<p>Now, the next step is to update the player sprite a little bit.</p>
+<ol>
+<li>Make a small change to the player, like the color of their head<ul>
+<li>Do not change the number of frames</li>
+<li>Do not change the size of the canvas</li>
+<li>Do not change the basic &quot;Walk Cycle&quot; frames</li>
+<li>Make sure to change each frame of the animation </li>
+</ul>
+</li>
+<li>Click the &quot;Export&quot; button on the right side of the window<br><img src="Assets/Export.png" alt=""></li>
+<li>Make sure &quot;Scale&quot; is set to <strong>1.0x</strong></li>
+<li>In the EXPORT menu, select the &quot;PNG&quot; tab<br><img src="Assets/ExportPngTab.png" alt=""></li>
+<li>Change the &quot;Spritesheet layout options&quot; so there are <strong>4 columns</strong><br><img src="Assets/ExportFourColumnLayout.png" alt=""></li>
+<li>In the &quot;Spritesheet file export&quot; part, click the &quot;Download&quot; button<br><img src="Assets/ExportDownloadButton.png" alt=""></li>
+<li>Save the file somewhere with the name <strong>player.png</strong></li>
+</ol>
+<p>Now the updated player should be ready to enter the existing game!</p>
+<h2 id="putting-the-new-player-in-the-game">Putting the New Player in the Game</h2>
+<p>It&apos;s time to update the game itself with the new player.</p>
+<ol>
+<li>Go back to the Repl project tab</li>
+<li>On the left, open the &quot;Files&quot; menu<br><img src="Assets/FilesMenu.png" alt=""></li>
+<li>In the &quot;Files&quot; area, open the &quot;images&quot; folder<br><img src="Assets/ImagesFolder.png" alt=""></li>
+<li>Drag the <strong>player.png</strong> file into the &quot;images&quot; folder<br><img src="Assets/DragPlayer.png" alt=""></li>
+<li>In the popup that appears, click the &quot;Yes, overwrite this file&quot; button<ul>
+<li>This will replace the existing <strong>player.png</strong> file</li>
+</ul>
+</li>
+</ol>
+<p>Run the program again, and at this point, the new player should appear!</p>
+<h2 id="next-steps">Next Steps</h2>
+<p>After the follow-along activity, there are some <a href="AnimationChallenges.html">challenges</a> to complete. Or, you can feel free to get creative and do whatever you want to do with Piskel!</p>
 
                                 
                                 </section>
@@ -675,12 +733,12 @@
 
             
                 
-                <a href="../IntroToGitWorkshop/Resources.html" class="navigation navigation-prev " aria-label="Previous page: Resources">
+                <a href="PiskelDemo.html" class="navigation navigation-prev " aria-label="Previous page: Piskel Demo">
                     <i class="fa fa-angle-left"></i>
                 </a>
                 
                 
-                <a href="PixelArtExamples.html" class="navigation navigation-next " aria-label="Next page: Pixel Art Examples">
+                <a href="AnimationChallenges.html" class="navigation navigation-next " aria-label="Next page: Challenges">
                     <i class="fa fa-angle-right"></i>
                 </a>
                 
@@ -691,7 +749,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Creating Pixel Art","level":"1.9.6","depth":2,"next":{"title":"Pixel Art Examples","level":"1.9.6.1","depth":3,"path":"Activities/PixelArtWorkshop/PixelArtExamples.md","ref":"Activities/PixelArtWorkshop/PixelArtExamples.md","articles":[]},"previous":{"title":"Resources","level":"1.9.5.6","depth":3,"path":"Activities/IntroToGitWorkshop/Resources.md","ref":"Activities/IntroToGitWorkshop/Resources.md","articles":[]},"dir":"ltr"},"config":{"plugins":["toggle-chapters"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"toggle-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"Hack Hyland 2023","gitbook":"*"},"file":{"path":"Activities/PixelArtWorkshop/StudentDesc.md","mtime":"2022-11-28T18:06:31.070Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2022-11-28T18:07:06.394Z"},"basePath":"../..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Follow-Along","level":"1.9.6.3","depth":3,"next":{"title":"Challenges","level":"1.9.6.4","depth":3,"path":"Activities/PixelArtWorkshop/AnimationChallenges.md","ref":"Activities/PixelArtWorkshop/AnimationChallenges.md","articles":[]},"previous":{"title":"Piskel Demo","level":"1.9.6.2","depth":3,"path":"Activities/PixelArtWorkshop/PiskelDemo.md","ref":"Activities/PixelArtWorkshop/PiskelDemo.md","articles":[]},"dir":"ltr"},"config":{"plugins":["toggle-chapters"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"toggle-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"Hack Hyland 2023","gitbook":"*"},"file":{"path":"Activities/PixelArtWorkshop/GameAnimation.md","mtime":"2022-11-28T18:06:31.062Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2022-11-28T18:07:06.394Z"},"basePath":"../..","book":{"language":""}});
         });
     </script>
 </div>

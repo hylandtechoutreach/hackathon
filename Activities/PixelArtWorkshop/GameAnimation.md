@@ -1,11 +1,14 @@
 # Game Animation
 Artists often create pixel art animations to be used in retro-style games. Follow the instructions to modify an existing game with new custom art! Google Chrome is recommended for this activity.
 
+>_Note that a Repl account is required to participate in this follow-along._
+
 ## The Existing Game
 For the purposes of this exercise, there is an existing game within a Repl project to use. Start by creating a fork of the game, and playing it.
 
-1. Go to the [Existing Game Repl Project](https://replit.com/@HylandOutreach/Platformer)
-1. Click the "Remix" button in the upper right
+1. Go to the [Existing Game Repl Project](https://replit.com/@HylandOutreach/PlatformerWave)
+1. Click the "Fork Repl" button in the upper right
+1. In the bottom-right of the pop-up, click the "Fork Repl" button
 1. Click the "Run" button to run the game
 1. Expand the Preview area so there is room to play the game
 
@@ -71,8 +74,8 @@ It's time to update the game itself with the new player.
    ![](Assets/ImagesFolder.png)
 1. Drag the **player.png** file into the "images" folder  
    ![](Assets/DragPlayer.png)
-1. In the popup that appears, click the "Replace" button
-   - This will overwrite the existing **player.png** file
+1. In the popup that appears, click the "Yes, overwrite this file" button
+   - This will replace the existing **player.png** file
 
 Run the program again, and at this point, the new player should appear!
 
