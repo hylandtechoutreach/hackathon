@@ -58,7 +58,7 @@ _Saturday 1/7, 3:00PM-3:30PM_
 ## Session: Programming Synthwave Music 🚀🖌️🧪
 _Saturday 1/7, 8:30PM-9:00PM_
 
-_\*Stranger Things music fades in\*_ Are you an aspiring musician, or even just a music fan? Listen in and help build a track from scratch in this interactive session! You'll learn how to use functional programming to make synthwave music (like the Stranger Things theme song).
+_\*stranger things music starts playing\*_ Are you an aspiring musician, or even just a music fan? Listen in and help build a track from scratch in this interactive session! You'll learn how to use functional programming to make synthwave music (like the stranger things theme song).
 
 [Click here for session materials.](ProgrammingSynthwaveSession/StudentDesc.md)
 
