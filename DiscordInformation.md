@@ -84,18 +84,29 @@ This channel is reserved for general chat. Get to know your fellow participants,
 #### questions
 Have a question about the event, or about your project development? Post it here, and event coordinators, mentors, and fellow participants might be able to help you out.
 
+### DIVISION CHANNELS
+These channels are specific to each individual student. You'll only have access to the channels that apply to you.
+
 #### in-person
 This channel is for students attending the event **in-person** at Hyland HQ.
 
 #### virtual
 This channel is for students attending the event **virtually**.
 
-### TRACK CHANNELS
-Once you select a track, you'll be able to chat with other participants from the same track in one of these channels:
+#### explorer
+In this channel, students following the **explorer** track can chat with each other.
 
-- **explorer**
-- **artisan**
-- **scientist**
+#### artisan
+In this channel, students following the **artisan** track can chat with each other.
+
+#### scientist
+In this channel, students following the **scientist** track can chat with each other.
+
+#### high-school
+This channel is for all the high school students attending the event.
+
+#### college
+This channel is for all the college students attending the event.
 
 ### OFF TOPIC CHANNELS
 These channels are strictly for fun!
