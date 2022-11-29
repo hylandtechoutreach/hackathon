@@ -1,4 +1,4 @@
-# User Experience Lesson
+# Session: Using User Experience
 This lesson is designed to expose students to the idea of user experience, and help them consider it for their projects.
 
 ## Learning Objectives

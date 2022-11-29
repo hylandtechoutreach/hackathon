@@ -1,4 +1,4 @@
-# User Experience
+# Session: Using User Experience
 Learn about how UX teams help create the best possible experience for users!
 
 ## PowerPoint Presentation

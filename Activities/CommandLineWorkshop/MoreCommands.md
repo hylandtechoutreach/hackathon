@@ -52,6 +52,3 @@ After researching the commands above, try to complete the following tasks using 
 1. Print out the contents of the "Test2.txt" file
 1. Count how many lines and words are in the "Test2.txt" file
 1. Print out the full list of recently-used commands
-
-## Challenge: Interactive Game
-[Click here to access the Terminus game.](http://www.mprat.org/Terminus/)
