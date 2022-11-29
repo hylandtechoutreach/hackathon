@@ -32,9 +32,9 @@ After the "bad" lecture and demo, **ask students what could have gone better**. 
 Present the [Presentations PowerPoint](Presentations.pptx). It should be slightly better, and emphasize the important lessons learned from the first one. There are talking points in the slides.
 
 ## Slideshow Shuffle
-This activity is also called ["PowerPoint karaoke"](https://en.wikipedia.org/wiki/PowerPoint_karaoke): the goal is for someone to present a slideshow they have never seen before! Ask for students to volunteer for each lecture, and then control their slides as they go. Try to keep each lecture at around **3 minutes**. Don't let students get too far off the rails, but make sure they actually add some commentary for each slide.
+This activity is also called ["PowerPoint karaoke"](https://en.wikipedia.org/wiki/PowerPoint_karaoke): the goal is for students to present slideshows they have never seen before!
 
-Here is a list of PowerPoints:
+Here are some available PowerPoints:
 
 - [Minimalism](ShuffleSlides/Minimalism.pptx)
 - [The Meaning of Art](ShuffleSlides/Art.pptx)
@@ -42,6 +42,18 @@ Here is a list of PowerPoints:
 - [The Number Four](ShuffleSlides/Four.pptx)
 - [Interior Design for Beginners](ShuffleSlides/InteriorDesign.pptx)
 - [How To Make A Splash In The World Of Business](ShuffleSlides/Business.pptx)
+
+Follow this process to facilitate the activity:
+
+1. Make sure all the presentations are downloaded and opened
+1. Show students the list of presentation titles (on the [workshop homepage](StudentDesc.md))
+1. Ask for students to volunteer to present, and let them choose from the list of lectures
+1. Put the chosen PowerPoint in presentation mode, and control the flow through the slides
+    - Try to keep each lecture around **3 minutes** (about 30 seconds per slide)
+    - Don't let any students get too far off the rails
+    - Make sure each student adds at least _some_ original commentary for each slide
+
+The activity is meant to be strictly for fun, so hopefully the students enjoy it!
 
 ## Agenda
 
