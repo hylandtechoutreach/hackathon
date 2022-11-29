@@ -34,6 +34,7 @@ Present the [Presentations PowerPoint](Presentations.pptx). It should be slightl
 ## Slideshow Shuffle
 This activity is also called ["PowerPoint karaoke"](https://en.wikipedia.org/wiki/PowerPoint_karaoke): the goal is for students to present slideshows they have never seen before!
 
+### PowerPoints
 Here are some available PowerPoints:
 
 - [Minimalism](ShuffleSlides/Minimalism.pptx)
@@ -43,6 +44,7 @@ Here are some available PowerPoints:
 - [Interior Design for Beginners](ShuffleSlides/InteriorDesign.pptx)
 - [How To Make A Splash In The World Of Business](ShuffleSlides/Business.pptx)
 
+### Facilitation
 Follow this process to facilitate the activity:
 
 1. Make sure all the presentations are downloaded and opened
