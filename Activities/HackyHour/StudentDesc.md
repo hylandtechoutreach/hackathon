@@ -1,5 +1,5 @@
 # Activity: Hacky Hour
-Kick off the 2023 Hyland Hackathon with this some fun team-building activities and introductory content 😎
+Kick off the 2023 Hyland Hackathon with some fun team-building activities and introductory content 😎
 
 ## Puzzles Challenge
 [Click here to view the puzzles.](PuzzlesChallenge.md)
