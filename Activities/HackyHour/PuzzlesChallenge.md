@@ -1,7 +1,7 @@
 # Puzzles Challenge 🧩
-Work with your team to figure out the answers to these puzzles! Solve as many as you can by the end of the Hacky Hour, and [click here to submit them](https://forms.gle/aedwjijKghTF64Gu6) when your're done.
+Work with your team to figure out the answers to these puzzles. Solve as many as you can by the end of the Hacky Hour, and feel free to divide and conquer.
 
-Feel free to hop around to different puzzles, or divide and conquer!
+**[When you're done, click here to submit your solutions!](https://forms.gle/aedwjijKghTF64Gu6)**
 
 ## Puzzle 1: ROT13 Cypher
 [Click here for Puzzle 1 instructions.](Puzzles/Puzzle1.md)

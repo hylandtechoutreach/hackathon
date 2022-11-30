@@ -1,5 +1,5 @@
 # Activity: Hacky Hour
-Kick off the 2023 Hyland Hackathon with this some fun team-building activities and introductory content 😎
+Kick off the 2023 Hyland Hackathon with some fun team-building activities and introductory content 😎
 
 ## Puzzles Challenge
 [Click here to view the puzzles.](PuzzlesChallenge.md)
@@ -13,7 +13,7 @@ Kick off the 2023 Hyland Hackathon with this some fun team-building activities a
 </video>
 
 ## Intro to Hackathons: Slides
-<iframe src='https://github.com/hylandtechoutreach/hackathon/blob/main/Activities/HackyHour/IntroToHackathons.pptx' width='100%' height='550px' frameborder='0'></iframe>
+<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://github.com/hylandtechoutreach/hackathon/raw/main/Activities/HackyHour/IntroToHackathons.pptx' width='100%' height='550px' frameborder='0'></iframe>
 
 ## Collaboration Tools
 [Click here for some tools you can use to collaborate on code with your team.](CollaborationTools.md)
