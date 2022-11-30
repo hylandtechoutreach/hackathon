@@ -10,7 +10,7 @@ Note that any function marked with a plus (**+**) is **mandatory**.
 | 4:00PM        | Doors Open           | Employee & Training Entrance |
 | 4:30PM-5:00PM | Dinner               | Auditorium                   |
 | **5:00PM-5:30PM** | **+ Event Kickoff +**        | **Auditorium/Zoom** |
-| 5:30PM-6:30PM | Activity: Hacky Hour           | Auditorium/Zoom              |
+| 5:30PM-6:30PM | Session: Hacky Hour 🚀🖌️🧪          | Auditorium/Zoom              |
 | **6:30PM**        | **+ Team Submission Due ([form](https://forms.gle/Cagf9asvZiosew8R6)) +**  | **Workstations** |
 | 6:30PM-7:00PM | Session: Choosing a Tech Stack 🧪   | Auditorium/Zoom |
 | 7:00PM-7:30PM | Session: Using User Experience 🖌️ | Auditorium/Zoom |

@@ -177,3 +177,27 @@
 ::-webkit-scrollbar-thumb:active {
     background: rgb(219, 109, 199);
 }
+
+div#before-pixel-grid-table + table tbody td {
+    text-align: center;
+}
+
+div#before-pixel-grid-table + table tbody td:nth-child(1) {
+    background: green;
+}
+
+div#before-pixel-grid-table + table tbody td:nth-child(2) {
+    background: #292929;
+}
+
+div#before-pixel-grid-table + table tbody td:nth-child(3) {
+    background: #d8d815;
+}
+
+div#before-pixel-grid-table + table tbody td:nth-child(4) {
+    background: #2929c1;
+}
+
+div#before-pixel-grid-table + table {
+    max-width:400px;
+}
