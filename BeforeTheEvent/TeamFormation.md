@@ -15,6 +15,6 @@ If you registered alone and need help putting a team together, don't worry. You 
 There will also be a team building activity where you can start to build connections with your new allies.
 
 ## Submitting your Team
-Once you've gathered your compatriots, you will need to fill out a form to make it official. This form will bind you together for all eternity, ensuring that you will remain tethered to one another forever, no matter what. For your team to be eligible for the competition, **this form must be submitted by 7PM ET on Friday.** # TODO: Team Submission Time
+Once you've gathered your compatriots, you will need to fill out a form to make it official. This form will bind you together for all eternity, ensuring that you will remain tethered to one another forever, no matter what. For your team to be eligible for the competition, **this form must be submitted by 5:00PM ET on Friday.**
 
 [Click here to access the form and seal your fate.](https://forms.gle/Cagf9asvZiosew8R6)
