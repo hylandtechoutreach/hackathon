@@ -1,5 +1,5 @@
-# Activity: Hacky Hour
-This activity is meant to welcome students into their Hackathon experience! They should get to know their fellow students all while having fun and preparing for the weekend ahead. 
+# Session: Hacky Hour
+This session is meant to welcome students into their Hackathon experience! They should get to know their fellow students all while having fun and preparing for the weekend ahead. 
 
 ## Polls Icebreaker
 Present the [Poll Questions PowerPoint](PollQuestions.pptx).

@@ -7,25 +7,26 @@ Note that any function marked with a plus (**+**) is **mandatory**.
 
 | Time (ET)     | Function             | Location                     |
 |---------------|----------------------|------------------------------|
-| 4:00PM        | Doors Open           | Employee & Training Entrance |
-| 4:30PM-5:00PM | Dinner               | Auditorium                   |
-| **5:00PM-5:30PM** | **+ Event Kickoff +**        | **Auditorium/Zoom** |
-| 5:30PM-6:30PM | Session: Hacky Hour 🚀🖌️🧪          | Auditorium/Zoom              |
-| **6:30PM**        | **+ Team Submission Due ([form](https://forms.gle/Cagf9asvZiosew8R6)) +**  | **Workstations** |
-| 6:30PM-7:00PM | Session: Choosing a Tech Stack 🧪   | Auditorium/Zoom |
-| 7:00PM-7:30PM | Session: Using User Experience 🖌️ | Auditorium/Zoom |
-| 7:30PM-9:00PM | Workshop: Building a Website 🚀 | Auditorium/Zoom |
-| 9:30PM-11:00PM | Activity: Movie Night | Auditorium/Zoom |
+| 3:00PM-3:30PM | Find a Team          | Auditorium/Discord           |
+| 3:30PM        | Doors Open for All!  | Employee & Training Entrance |
+| **4:00PM-4:30PM** | **+ Event Kickoff +**        | **Auditorium/Zoom** |
+| **5:00PM**        | **+ Team Submission Due ([form](https://forms.gle/Cagf9asvZiosew8R6)) +**  | **Workstations** |
+| 5:00PM-6:00PM | Session: Hacky Hour 🚀🖌️🧪          | Auditorium/Zoom              |
+| 6:00PM-6:30PM | Dinner               | Auditorium                   |
+| 6:30PM-7:15PM | Session: Using User Experience 🖌️ | Auditorium/Zoom |
+| 7:30PM-8:00PM | Session: Choosing a Tech Stack 🧪   | Auditorium/Zoom |
+| 8:00PM-9:30PM | Workshop: Building a Website 🚀 | Auditorium/Zoom |
+| 8:00PM-9:30PM | Workshop: Introduction to Git 🧪          | Auditorium/Zoom |
+| 10:00PM-11:30PM | Activity: Movie Night | Auditorium/Zoom |
 
 ## Saturday, January 7th
 
 | Time (ET)       | Function                       | Location        |
 |-----------------|--------------------------------|-----------------|
-| 8:00AM-9:00AM  | Grab-n-Go Breakfast            | Hallway         |
+| 8:00AM-10:00AM  | Grab-n-Go Breakfast            | Hallway         |
 | **9:00AM-9:15AM**   | **+ Day 2 Kickoff +**                  | **Auditorium/Zoom** |
-| 10:00AM-11:30AM | Workshop: Introduction to Git 🧪          | Auditorium/Zoom |
+| 11:00PM-11:45PM   | Workshop: Creating Pixel Art 🚀🖌️                      | Auditorium/Zoom |
 | 12:00PM-1:00PM  | Lunch                          | Hallway         |
-| 1:00PM-1:45PM   | Workshop: Creating Pixel Art 🚀🖌️                      | Auditorium/Zoom |
 | 2:00PM-2:30PM   | Workshop: Unlocking the Command Line 🚀🧪                | Auditorium/Zoom |
 | 3:00PM-3:30PM | Session: Eye-opening OpenAI Session 🚀🖌️🧪 | Auditorium/Zoom |
 | 4:00-4:30PM | Activity: Knockout/Hooping | Meet by Hallway |
