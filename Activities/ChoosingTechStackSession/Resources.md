@@ -22,8 +22,8 @@ We recommend using a stack where each component technology works well together. 
     - Also MEAN and MEVN (subbing Angular/Vue for React)
 
 #### Python Based
-- Flask + SQLite
-- Django + MySQL
+- Flask + MySQL
+- Django + SQLite
 
 ## Tutorials
 There are a ton of tutorials available online - here are a few examples. If you don't see one that applies directly, Google will probably be able to help out!
