@@ -71,6 +71,15 @@ These tutorials are specific to front-ends - they should be helpful for basic fo
 - [**Angular** Tutorial](https://angular.io/tutorial)
 - [**Blazor** Tutorial](https://dotnet.microsoft.com/en-us/learn/aspnet/blazor-tutorial/intro)
 
+### Deployment
+When your project is in a state where you're ready to show it off, it's time to deploy! To deploy just means to make something available for people to try.
+
+In this hackathon there are no specific requirements around deployment. Any way you want to share your creation is fine!
+
+- [Sharing Your Repl](https://docs.replit.com/hosting/sharing-your-repl)
+- [Advanced: How to set up Continuous Deployment with GitHub Actions](https://docs.github.com/en/actions/deployment/about-deployments/deploying-with-github-actions)
+- [Advanced: How to submit your native iOS app to the App Store](https://developer.apple.com/ios/submit/)
+
 ## Examples
 If you don't want to start from scratch, you can take one of these boiler-plate examples. Just make sure you understand all of the code before you start!
 
