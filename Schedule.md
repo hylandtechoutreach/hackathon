@@ -31,7 +31,7 @@ Note that any function marked with a plus (**+**) is **mandatory**.
 | 3:00PM-3:30PM | Session: Eye-opening OpenAI Session 🚀🖌️🧪 | Auditorium/Zoom |
 | 4:00-4:30PM | Activity: Knockout/Hooping | Meet by Hallway |
 | 6:30PM-7:30PM   | Dinner                         | Hallway         |
-| 8:30PM-9:00PM   | Session: Programming Synthwave Music 🚀🖌️🧪                     | Auditorium/Zoom |
+| 7:30PM-8:15PM   | Session: Programming Synthwave Music 🚀🖌️🧪                     | Auditorium/Zoom |
 | 9:30PM-10:30PM | Activity: Trivia | Auditorium/Zoom |
 | **11:00PM**         | **+ Short Project Descriptions Due ([form](https://forms.gle/1C5tdUv1ZaMbuEbK6)) +** | **Workstations**    |
 

@@ -1,7 +1,7 @@
 # Game Animation
 Artists often create pixel art animations to be used in retro-style games. Follow the instructions to modify an existing game with new custom art! Google Chrome is recommended for this activity.
 
->_Note that a Repl account is required to participate in this follow-along._
+>Note that a Repl account is required to participate in this follow-along.
 
 ## The Existing Game
 For the purposes of this exercise, there is an existing game within a Repl project to use. Start by creating a fork of the game, and playing it.
