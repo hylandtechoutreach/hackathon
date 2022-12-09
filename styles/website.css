@@ -76,10 +76,8 @@
     }
 }
 
-.markdown-section a {
-    color: #ff40a2;
-}
-
+.markdown-section a,
+.markdown-section a strong,
 .markdown-section a:visited {
     color: #ff40a2;
 }

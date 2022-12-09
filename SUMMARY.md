@@ -25,6 +25,7 @@
     - [Collaboration Tools](Activities/HackyHour/CollaborationTools.md)
     - [Learning Resources](Activities/HackyHour/LearningResources.md)
   - [Choosing a Tech Stack](Activities/ChoosingTechStackSession/StudentDesc.md)
+    - [Resources](Activities/ChoosingTechStackSession/Resources.md)
   - [Using User Experience](Activities/UxSession/StudentDesc.md)
   - [Building a Website](Activities/BuildingWebsiteWorkshop/StudentDesc.md)
   - [Introduction to Git](Activities/IntroToGitWorkshop/StudentDesc.md)
