@@ -45,7 +45,7 @@ Design your own characters, logos, and other graphics using [Piskel](https://pis
 
 [Click here for workshop materials.](PixelArtWorkshop/StudentDesc.md)
 
-## Workshop: Unlocking the Command Line 🚀🧪
+## Workshop: Unlocking the Power of the Command Line 🚀🧪
 _Saturday 1/7, 2:00PM-2:30PM ET_
 
 If you want to hack like a pro, you'll need to get comfortable with command line interfaces. This session introduces the command line terminal, and presents an [interactive game](https://www.mprat.org/Terminus/) where you can practice the commands!

@@ -1,4 +1,4 @@
-# Workshop: Unlocking the Command Line
+# Workshop: Unlocking the Power of the Command Line
 This lesson introduces the command line/bash as a general idea. The students should gain some familiarity with the tool, and feel comfortable at least moving around directories. They should understand some basics about how commands work.
 
 ## Lecture
