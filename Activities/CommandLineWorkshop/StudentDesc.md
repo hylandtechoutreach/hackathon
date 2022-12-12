@@ -1,4 +1,4 @@
-# Workshop: Unlocking the Command Line
+# Workshop: Unlocking the Power of the Command Line
 Learn how and why to use the command line!
 
 ## PowerPoint Presentation
