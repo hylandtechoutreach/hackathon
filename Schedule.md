@@ -16,8 +16,8 @@ Note that any function marked with a plus (**+**) is **mandatory**.
 | 6:00PM-6:30PM | Dinner               | Auditorium                   |
 | 6:30PM-7:15PM | Session: Using User Experience 🖌️ | Auditorium/Zoom |
 | 7:30PM-8:00PM | Session: Choosing a Tech Stack 🧪   | Auditorium/Zoom |
-| 8:00PM-9:30PM* | Workshop: Building a Website 🚀 | Auditorium/Zoom |
-| 8:00PM-9:30PM* | Workshop: Introduction to Git 🧪          | R&D Training Room 2/Zoom Room 2 |
+| 8:00PM-9:30PM | Workshop: Building a Website 🚀 | Auditorium/Zoom |
+| 8:00PM-9:30PM | Workshop: Introduction to Git 🧪          | R&D Training Room 2/Zoom Room 2 |
 | 10:00PM-11:30PM | Activity: Movie Night | Auditorium/Zoom |
 
 ## Saturday, January 7th
