@@ -41,7 +41,7 @@ Note that any function marked with a plus (**+**) is **mandatory**.
 |    Time (ET)    |            Function            |     Location    |
 |---------------|---------------------------|--------------|
 | 8:30AM-10:30AM  | Grab-n-Go Breakfast         | Hallway         |
-| 11:30PM-12:30PM | Workshop: Presenting Presentations 🖌️     | Auditorium/Zoom |
+| 11:30AM-12:30PM | Workshop: Presenting Presentations 🖌️     | Auditorium/Zoom |
 | 12:30PM-1:30PM  | Lunch                       | Hallway         |
 | **3:00PM**          | **+ Code Cut Off +**                | **Workstations**    |
 | 3:30PM          | Judging Begins              | Auditorium/Zoom |
