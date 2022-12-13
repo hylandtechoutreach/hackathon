@@ -63,7 +63,7 @@ _\*stranger things music starts playing\*_ Are you an aspiring musician, or even
 [Click here for session materials.](ProgrammingSynthwaveSession/StudentDesc.md)
 
 ## Workshop: Presenting Presentations 🖌️
-_Sunday 1/8, 11:30PM-12:30PM ET_
+_Sunday 1/8, 11:30AM-12:30PM ET_
 
 Do you need present better? Not good word doing? Nervous stage fright and spelign mstakes? Join this session for some presentation tips and tricks, as well as a chance to practice presenting with a fun Slideshow Shuffle activity!
 
