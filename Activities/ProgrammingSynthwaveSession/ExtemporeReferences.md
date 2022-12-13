@@ -12,7 +12,7 @@ Extempore can be really tough to pick up, especially if you haven't seen languag
 
 ![](Assets/LispXkcd.png)
 
-Many languages descend from [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language)), and there are some that may be easier to start learning. One example is Racket.
+Many languages descend from <a href="https://en.wikipedia.org/wiki/Lisp_(programming_language)">Lisp</a>, and there are some that may be easier to start learning. One example is Racket.
 
 [Click here for a helpful introduction to Racket](https://docs.racket-lang.org/quick/) that may be a little more digestible than all the Extempore stuff.
 
