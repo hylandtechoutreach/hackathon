@@ -1,7 +1,7 @@
 # Using the Command Line in Replit
 You can run a command line shell right from Replit!
 
->_Note that a Repl account is required to participate in this activity._
+>Note that a Repl account is required to participate in this activity.
 
 ## Getting Started with Replit
 First, you'll want to get the a command line up and running.
