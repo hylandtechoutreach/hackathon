@@ -14,7 +14,7 @@ Note that any function marked with a plus (**+**) is **mandatory**.
 | **5:00PM**        | **+ Team Submission Due ([form](https://forms.gle/Cagf9asvZiosew8R6)) +**  | **Workstations** |
 | 5:00PM-6:00PM | Session: Hacky Hour 🚀🖌️🧪          | Auditorium/Zoom |
 | 6:00PM-6:30PM | Dinner               | Auditorium                   |
-| 6:30PM-7:15PM | Session: Using User Experience 🖌️ | Auditorium/Zoom |
+| 6:30PM-7:15PM | Session: Using User Experience 🚀🖌️🧪 | Auditorium/Zoom |
 | 7:30PM-8:00PM | Session: Choosing a Tech Stack 🧪   | Auditorium/Zoom |
 | 8:00PM-9:30PM | Workshop: Building a Website 🚀 | Auditorium/Zoom |
 | 8:00PM-9:30PM | Workshop: Introduction to Git 🧪          | R&D Training Room 2/Zoom Room 2 |
@@ -28,7 +28,7 @@ Note that any function marked with a plus (**+**) is **mandatory**.
 | **9:00AM-9:15AM**   | **+ Day 2 Kickoff +**                  | **Auditorium/Zoom** |
 | 11:00PM-11:45PM   | Workshop: Creating Pixel Art 🚀🖌️                      | Auditorium/Zoom |
 | 12:00PM-1:00PM  | Lunch                          | Hallway         |
-| 2:00PM-2:30PM   | Workshop: Unlocking the Power of the Command Line 🚀🧪                | Auditorium/Zoom |
+| 2:00PM-2:30PM   | Workshop: The Power of the Command Line 🚀🧪                | Auditorium/Zoom |
 | 3:00PM-3:30PM | Session: Eye-opening OpenAI Session 🚀🖌️🧪 | Auditorium/Zoom |
 | 4:00-4:30PM | Activity: Knockout/Hooping | Meet by Hallway |
 | 5:30PM-6:30PM   | Dinner                         | Hallway         |
