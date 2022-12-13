@@ -46,5 +46,8 @@
   - [Command Line](Activities/CommandLineWorkshop/StudentDesc.md)
     - [More Commands](Activities/CommandLineWorkshop/MoreCommands.md)
   - [Programming Synthwave](Activities/ProgrammingSynthwaveSession/StudentDesc.md)
+    - [Demo Guide](Activities/ProgrammingSynthwaveSession/DemonstrationGuide.md)
+    - [Examples](Activities/ProgrammingSynthwaveSession/SynthwaveExamples.md)
+    - [References](Activities/ProgrammingSynthwaveSession/ExtemporeReferences.md)
   - [Presentations](Activities/PresentationsWorkshop/StudentDesc.md)
 - [Contact](Contact.md)
