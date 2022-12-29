@@ -10,7 +10,7 @@ _If you want to win, your first step will be to assemble a team._
   - Note that if a team has both high school _and_ college students, it will compete with other **College** teams
 
 ## Recruitment Assistance for the Lone Wolf 🐺
-If you registered alone and need help putting a team together, don't worry. You can use the `find-a-team` [Discord](DiscordInformation.md) channel to find other participants who need teams. You may be able to join an existing team, or start a new one.
+If you registered alone and need help putting a team together, don't worry. You can use the `find-a-team` [Discord](../DiscordInformation.md) channel to find other participants who need teams. You may be able to join an existing team, or start a new one.
 
 There will also be a team building activity where you can start to build connections with your new allies.
 
