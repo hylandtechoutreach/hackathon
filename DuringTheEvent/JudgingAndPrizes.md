@@ -5,7 +5,7 @@ _Face the ultimate judgment, and reap the splendid rewards of your impeccable ef
 There will be two rounds of judging: the **Entry Round**, and the **Final Round**.
 
 ### Entry Round: Video Pitch
-For this round, you should record a **video pitch** that describes the capabilities of your software product. Explain your project, demonstrate the features, and sell it to the judges!
+For this round, you should record a **2-3 minute video pitch** that describes the capabilities of your software product. Explain your project, demonstrate the features, and sell it to the judges!
 
 The deadline to submit a video is **Sunday at 1pm ET**, so make sure you upload your video and [submit the link](https://forms.gle/1C5tdUv1ZaMbuEbK6) by then!
 
