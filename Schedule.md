@@ -34,16 +34,18 @@ Note that any function marked with a plus (**+**) is **mandatory**.
 | 5:30PM-6:30PM   | Dinner                         | Hallway         |
 | 6:45PM-7:30PM   | Session: Programming Synthwave Music 🚀🖌️🧪                     | Auditorium/Zoom |
 | 9:30PM-10:30PM | Activity: Trivia | Auditorium/Zoom |
-| **11:00PM**         | **+ Short Project Descriptions Due ([form](https://forms.gle/1C5tdUv1ZaMbuEbK6)) +** | **Workstations**    |
 
 ## Sunday, January 8th
+
+>Note that exact times are subject to change depending on the number of teams and the duration of the judging
 
 |    Time (ET)    |            Function            |     Location    |
 |---------------|---------------------------|--------------|
 | 8:30AM-10:30AM  | Grab-n-Go Breakfast         | Hallway         |
-| 11:30AM-12:30PM | Workshop: Presenting Presentations 🖌️     | Auditorium/Zoom |
-| 12:30PM-1:30PM  | Lunch                       | Hallway         |
-| **3:00PM**          | **+ Code Cut Off +**                | **Workstations**    |
-| 3:30PM          | Judging Begins              | Auditorium/Zoom |
+| **1:00PM** | **+ Entry Round: Videos Due ([form](https://forms.gle/1C5tdUv1ZaMbuEbK6)) +** | **Workstations** |
+| 1:00PM-2:00PM  | Lunch                       | Hallway         |
+| 2:00PM-3:00PM | Workshop: Presenting Presentations 🖌️     | Auditorium/Zoom |
+| **3:45PM**         | **+ Top Teams Announced +**             | Auditorium/Zoom |
+| **4:00PM-6:00PM**         | **+ Final Round: Presentations +**             | Auditorium/Zoom |
 | 6:00PM-6:30PM   | Dinner                      | Hallway/Auditorium         |
 | **6:30PM-7:00PM**   | **+ Closing Ceremony +**            | **Auditorium/Zoom** |
