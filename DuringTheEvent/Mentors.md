@@ -13,5 +13,3 @@ Hyland employees will assume the role of mentor during the event, and guide you 
 _Whether virtual or in-person, participants should never be one-on-one with mentors._
 
 Both virtual and in-person mentors will be available to help, so feel free to reach out to either!
-
-_More mentor information coming soon!_

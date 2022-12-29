@@ -10,7 +10,7 @@
   - [What to Bring](BeforeTheEvent/WhatToBring.md)
 - [During the Event](DuringTheEvent/StudentDesc.md)
   - [Rules](DuringTheEvent/Rules.md)
-  - [Mentor Shifts](DuringTheEvent/Mentors.md)
+  - [Mentors](DuringTheEvent/Mentors.md)
   - [Judging & Prizes](DuringTheEvent/JudgingAndPrizes.md)
   - [Library](DuringTheEvent/Library.md)
 - [Workshops & Sessions](Activities/StudentDesc.md)

@@ -6,11 +6,11 @@ The in-person event will take place at Hyland's Building 3: [28105 Clemens Rd, W
 ![](Assets/VisitingHyland.png)
 
 ## Hyland Building 3 Entrance
-Please enter through the Employee & Training Entrance on the North side of Building 3. # TODO: Location
+Please enter through the Employee & Training Entrance on the North side of Building 3.
 
 ![](Assets/HylandBuilding3Entrance.png)
 
 ## Hyland Building 3 Interior Map
-Activities and Workstations will be located on the 1st floor, in the core of Building 3. # TODO: Map
+Activities and Workstations will be located on the 1st floor, in the Core and D Wing of Building 3.
 
-![](Assets/HackathonMap.png)
+![](Assets/HackMap.jpg)

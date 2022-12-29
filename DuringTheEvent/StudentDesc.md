@@ -32,11 +32,13 @@ There are workshops and sessions scheduled throughout the weekend.
 [Click here for materials related to event activities.](../Activities/StudentDesc.md)
 
 ## Wi-Fi
-If you're here in-person, you'll want to make sure you stay connected using the Wi-Fi. # TODO: Wi-Fi
+If you're here in-person, you'll want to make sure you stay connected using the Wi-Fi.
 
 - Network: **Hackathon**
 - Password: **HylandSoftware!**
   - _Note that the Password is case-sensitive_
+
+_Wi-fi information is subject to change_
 
 ## Contact
 If you need to get in touch with the event coordinators for any reason, someone should be available to answer the call.
