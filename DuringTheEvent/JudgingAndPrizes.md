@@ -1,6 +1,9 @@
 # Judging & Prizes
 _Face the ultimate judgment, and reap the splendid rewards of your impeccable efforts._
 
+#### ENTRY ROUND SUBMISSION
+[Click here to submit your video pitch by **1pm ET on Sunday**!](https://forms.gle/1C5tdUv1ZaMbuEbK6)
+
 ## Rounds
 There will be two rounds of judging: the **Entry Round**, and the **Final Round**.
 
@@ -30,7 +33,7 @@ You will be required to submit a **link** to your video using a platform of your
 - **Google Drive:** If you have a Google account, you can upload your video to [Google Drive](https://drive.google.com/drive/my-drive) and share via link. [Click here for a walkthrough.](https://www.businessinsider.com/guides/tech/how-to-share-a-video-on-google-drive)
 - **YouTube:** If you have a YouTube account, you can upload your video to [YouTube](https://www.youtube.com/)! Feel free to post it as "Unlisted" if you don't want it to be fully public; but it must be accessible through a link.
 - **ShareBase:** If you do not have any accounts, you can upload the video to a ShareBase folder:
-  - [Click here to open the folder](https://app.sharebase.com/#/folder/1656143/share/3-xnB4541jY2jtNHs-S4Sw3SA-Dmg)
+  - [Click here to open the folder](https://app.sharebase.com/#/folder/1656143/share/3-AxI6WesCYhcQE2cM8eSkwpv8GwI)
   - Drag the file into the folder, or click the Upload button
   - Once the file is uploaded, click on it to open it
   - Copy the link to the file from the browser address bar
