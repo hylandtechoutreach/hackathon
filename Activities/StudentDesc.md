@@ -57,6 +57,8 @@ _Saturday 1/7, 3:00PM-3:30PM ET_
 
 "Let's talk about A.I." ~SZA
 
+[Click here for session materials.](OpenAISession/StudentDesc.md)
+
 ## Session: Programming Synthwave Music 🚀🖌️🧪
 _Saturday 1/7, 6:45PM-7:30PM ET_
 
