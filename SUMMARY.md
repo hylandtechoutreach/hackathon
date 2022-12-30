@@ -45,6 +45,8 @@
     - [Challenges](Activities/PixelArtWorkshop/AnimationChallenges.md)
   - [Command Line](Activities/CommandLineWorkshop/StudentDesc.md)
     - [More Commands](Activities/CommandLineWorkshop/MoreCommands.md)
+  - [OpenAI](Activities/OpenAISession/StudentDesc.md)
+    - [Resources](Activities/OpenAISession/Resources.md)
   - [Programming Synthwave](Activities/ProgrammingSynthwaveSession/StudentDesc.md)
     - [Demo Guide](Activities/ProgrammingSynthwaveSession/DemonstrationGuide.md)
     - [Examples](Activities/ProgrammingSynthwaveSession/SynthwaveExamples.md)
