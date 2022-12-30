@@ -86,8 +86,8 @@ Choose between an **Electric Scooter** and **Noise-Canceling Earbuds**.
 ### Second Place
 Choose between a **Pixel Art Bluetooth Speaker** and an **LED Jellyfish Lamp**.
 
-### Physical Raffle Prizes
+### Physical Giveaway Prizes
 In-person participants can win candy, rubber ducks, a stuffed animal, a water bottle, or a grab bag of assorted items.
 
-### Digital Raffle Prizes
+### Digital Giveaway Prizes
 Virtual participants can win an audible credit, a set of A.I. portraits, a collection of A.I. poetry, a custom synth track, or a Udemy course.
