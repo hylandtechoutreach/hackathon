@@ -12,6 +12,8 @@ jobs:
         uses: actions/checkout@v2
         with:
           lfs: true
+      - name: Install git lfs
+        run: git lfs install
       - name: Checkout LFS objects
         run: git lfs checkout
       # Run this action to publish gitbook
