@@ -25,7 +25,7 @@ Note that any function marked with a plus (**+**) is **mandatory**.
 | Time (ET)       | Function                       | Location        |
 |-----------------|--------------------------------|-----------------|
 | 8:00AM-10:00AM  | Grab-n-Go Breakfast            | Hallway         |
-| **9:00AM-9:15AM**   | **+ Day 2 Kickoff +**                  | **Auditorium/Zoom** |
+| **9:00AM-9:05AM**   | **+ Day 2 Kickoff +**                  | **Auditorium/Zoom** |
 | 11:00PM-11:45PM   | Workshop: Creating Pixel Art 🚀🖌️                      | Auditorium/Zoom |
 | 12:00PM-1:00PM  | Lunch                          | Hallway         |
 | 2:00PM-2:30PM   | Workshop: The Power of the Command Line 🚀🧪                | Auditorium/Zoom |
@@ -42,8 +42,9 @@ Note that any function marked with a plus (**+**) is **mandatory**.
 |    Time (ET)    |            Function            |     Location    |
 |---------------|---------------------------|--------------|
 | 8:30AM-10:30AM  | Grab-n-Go Breakfast         | Hallway         |
+| **9:00AM-9:05AM**   | **+ Final Day Kickoff +**                  | **Auditorium/Zoom** |
 | **1:00PM** | **+ Entry Round: Videos Due ([form](https://forms.gle/1C5tdUv1ZaMbuEbK6)) +** | **Workstations** |
-| 1:00PM-2:00PM  | Lunch                       | Hallway         |
+| 1:00PM-1:30PM  | Lunch                       | Hallway         |
 | 2:00PM-3:00PM | Workshop: Presenting Presentations 🖌️     | Auditorium/Zoom |
 | **3:45PM**         | **+ Top Teams Announced +**             | Auditorium/Zoom |
 | **4:00PM-6:00PM**         | **+ Final Round: Presentations +**             | Auditorium/Zoom |
