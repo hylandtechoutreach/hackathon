@@ -10,12 +10,6 @@ jobs:
       # Check out the repo first
       - name: Checkout code
         uses: actions/checkout@v2
-        with:
-          lfs: true
-      - name: Install git lfs
-        run: git lfs install
-      - name: Checkout LFS objects
-        run: git lfs checkout
       # Run this action to publish gitbook
       - name: Publish
         uses: tuliren/publish-gitbook@v1.0.0
