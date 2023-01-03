@@ -57,6 +57,10 @@ _Saturday 1/7, 3:00PM-3:30PM ET_
 
 "Let's talk about A.I." ~SZA
 
+Get ready to be blown away by the incredible capabilities of artificial intelligence! OpenAI is at the forefront of the AI revolution, and we're excited to bring you a special session at the hackathon. You'll get a chance to see demos of the cutting-edge tools and technologies that are helping knowledge workers be more efficient and effective, and be inspired to create your own AI-powered projects. Don't miss out on this opportunity to learn from the experts and see the future of work firsthand!
+
+[Click here for session materials.](OpenAISession/StudentDesc.md)
+
 ## Session: Programming Synthwave Music 🚀🖌️🧪
 _Saturday 1/7, 6:45PM-7:30PM ET_
 
