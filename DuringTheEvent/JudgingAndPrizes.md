@@ -30,7 +30,7 @@ That should be all you need to do! Once you have your video file, you'll be able
 #### Uploading Your Video
 You will be required to submit a **link** to your video using a platform of your choice. You can host it anywhere you'd like, as long as it is accessible to the judges through a URL. There are a few options for this:
 
-- **Google Drive:** If you have a Google account, you can upload your video to [Google Drive](https://drive.google.com/drive/my-drive) and share via link. [Click here for a walkthrough.](https://www.businessinsider.com/guides/tech/how-to-share-a-video-on-google-drive)
+- **Google Drive:** If you have a Google account, you can upload your video to [Google Drive](https://drive.google.com/drive/my-drive) and share via link. [Click here for a walkthrough.](https://www.businessinsider.com/guides/tech/how-to-share-a-video-on-google-drive). _Note: If you use Google Drive, **make sure your video is shared and accessible to anyone with the link**_
 - **YouTube:** If you have a YouTube account, you can upload your video to [YouTube](https://www.youtube.com/)! Feel free to post it as "Unlisted" if you don't want it to be fully public; but it must be accessible through a link.
 - **ShareBase:** If you do not have any accounts, you can upload the video to a ShareBase folder:
   - [Click here to open the folder](https://app.sharebase.com/#/folder/1656143/share/3-AxI6WesCYhcQE2cM8eSkwpv8GwI)
