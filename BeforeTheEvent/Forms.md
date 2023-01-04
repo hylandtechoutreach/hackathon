@@ -1,22 +1,15 @@
 # Admission Forms
 _You will be permitted to compete if and only if you provide the requisite onboarding documentation._
 
-Links to all admission forms will be available soon.
-
-<!--- 
-
-## Code of Conduct
-All attendees, regardless of age, are required to fill out a Code of Conduct form prior to the event. Note that if you are disrespectful in any way, or break any of the rules, you may be removed from the event and banned from attending future Tech Outreach programs.
-
-_The link to the updated Code of Conduct form will be available soon!_
-
-
-[Click here to complete the Code of Conduct Form.](https://unityforms.onbase.com/HSIDB/UnityForm.aspx?d1=AY1z5Pu%2faZlXrw6UnGxGhuVtzCZlt2vsySj7JPZiHUdx2I94aj6AOQ5qrYvncpN5gdojlXrB%2fJND4H5ntrwNZU68igNwL%2bQBH6I4vVlC70bIYr4v90A8Jj53HCXRETTmz2qZf0EuHqoFRfqW5Rp6APfIWbG1P%2bFNPfNRKkPidLur8ewiZM9nbzhesvcJYbY0KYPfsao5%2fOVroqT79H9X1I0BsqaYJAvBQDrxYeKm%2bcc5hLUB4rhwAPTVdEzaKWFwYQ%3d%3d)
-
-
 ## Parent/Guardian Consent Form
-Attendees under the age of 18 must have a parent or guardian fill out the Parent/Guardian Consent Form prior to the event.
+If you are under 18 years old (or 19 in Alabama or Nebraska), we ask that a parent or guardian fills out a consent form.
 
-[Click here to complete the Parent/Guardian Consent Form.](https://unityforms.onbase.com/HSIDB/UnityForm.aspx?d1=AXqj5WtCdyBSP534QS%2bymO7giKPJqgRe0JvlfCPbrVKTSQ5CeLzlqyJqSFofoXf2%2fLm1tziXizPoWedY3oo0Ff8BYz3%2bWSDjX8JsPBVEQ68sFTg%2be%2bztiTe7qXhuFsIP6RVeH4uaoVUZvOwoGP5MJdybqMRrkdlPg7n0HQq%2b03fYaGCHuMTrcgd3xVYRQTtHcGVbF%2f9ge37RyeSM6tW3DNOA6Rk1qQ%2bwqehGr6BqXkDl4Hizr1%2bMzCdHnpVWatT87A%3d%3d&_ga=2.224005659.188592932.1575387639-78961992.1520540426)
+[Click here to complete the Parent/Guardian Consent Form.](https://unityforms.onbase.com/HSIDB/UnityForm.aspx?d1=AdrvirQPpbk%2fK8N%2fmU7zlZ4mwqZaJKU5IfdbClMYdbyFrgdw2YhKV9yGhxDGytB9U8A5uigiD1fnrt0%2fJmKvEzSu1S6ylzH52OiTbeLVjX8AcquU7dimjNQlyyF%2biPTmZhG0M%2fg74cfhplG2u%2fBI5XmVbEEPxq1PRLELOt3y6oSvbFgf6h1LdG%2fRKBTkGcuRGQIk9Ng%2brVPsEl%2fmKjwXqlAu%2fv0F13hHLO7K9hZXE%2fP80mQK1evTlimpvwxy%2bmT%2fBg%3d%3d)
 
--->
+## Hyland Technical Programs Form
+If you are 18 years old or older (19+ in Alabama or Nebraska), we ask that you fill out this participation consent form.
+
+[Click here to complete the Hyland Technical Programs Form.](https://unityforms.onbase.com/HSIDB/UnityForm.aspx?d1=AX%2fXTSKezMF%2fAfCTU5ndoRfIa%2fMR0nq%2blzEwZiP4BG3D%2ba6NQdopbNBm7MYS7%2baruklLRBO8ZmUN4R3m%2b%2bRguyNmnU%2fpgcTHEeTCUdgn2xag8qp6OhnDkrNF79qJmFeb2tfnHtVPETu1X972LtZ9ZDf2oWTewqraA5ct4d6kR9g8E0ToEQi%2fyv7Ya0ue9qtiRI1BUAK08114jAtBBD%2b0XSTwecavP1PBioTpDwLYymgMnaVATn8fH%2fK6t2qG4Pf0vw%3d%3d)
+
+## Failure to Complete
+If your assigned form is not completed, **you will not be able to participate in the Hackathon.** 
