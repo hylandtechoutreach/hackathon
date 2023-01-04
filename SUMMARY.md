@@ -12,7 +12,7 @@
   - [Rules](DuringTheEvent/Rules.md)
   - [Mentors](DuringTheEvent/Mentors.md)
   - [Judging & Prizes](DuringTheEvent/JudgingAndPrizes.md)
-  - [Library](DuringTheEvent/Library.md)
+  - [Map](DuringTheEvent/Map.md)
 - [Workshops & Sessions](Activities/StudentDesc.md)
   - [Hacky Hour](Activities/HackyHour/StudentDesc.md)
     - [Puzzles Challenge](Activities/HackyHour/PuzzlesChallenge.md)
