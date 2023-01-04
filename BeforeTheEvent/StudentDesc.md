@@ -2,7 +2,7 @@
 _You were brave enough to register for the Hackathon; now you must prepare._
 
 ## Preparation Checklist
-- Complete [all the necessary Admission Forms](Forms.md)
+- Complete [all necessary Admission Forms](Forms.md)
 - Join the [Discord Server](https://discord.gg/ah6678uzWA)
 - Choose a [Track](../Tracks.md) to follow
 - Form a [Team](TeamFormation.md)
