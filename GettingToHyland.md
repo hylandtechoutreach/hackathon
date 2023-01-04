@@ -13,4 +13,4 @@ Please enter through the Employee & Training Entrance on the North side of Build
 ## Hyland Building 3 Interior Map
 Activities and Workstations will be located on the 1st floor, in the Core and D Wing of Building 3.
 
-![](Assets/HackMap.jpg)
+![](Assets/HackathonMap.jpg)
