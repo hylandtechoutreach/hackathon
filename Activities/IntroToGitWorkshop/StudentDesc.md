@@ -2,7 +2,7 @@
 Learn how you can use Git to store and collaborate on the code for your project!
 
 ## PowerPoint Presentation
-<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechoutreach.github.io/hackathon/IntroToGit/Presentation.pptx' width='100%' height='450px' frameborder='0'></iframe>
+<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://github.com/hylandtechoutreach/hackathon/raw/main/Activities/IntroToGitWorkshop/Presentation.pptx' width='100%' height='450px' frameborder='0'></iframe>
 
 ## Make a GitHub Account
 Follow [these instructions](MakeAGitHubAccount.md) to get started with Git by making a GitHub account.
