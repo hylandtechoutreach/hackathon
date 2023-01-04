@@ -16,6 +16,9 @@ There are some critical points of action that are **required** if your team want
 
 [Click here to view the Schedule.](../Schedule.md)
 
+## Map
+[Click here to take a look at the building map.](Map.md)
+
 ## Mentors
 As you're off exploring new landscapes of programming prowess, you might find that you need a little guidance. Luckily, Hyland employees will be there to assist you every step of your journey.
 
