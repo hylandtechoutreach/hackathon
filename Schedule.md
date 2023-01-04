@@ -45,8 +45,8 @@ Note that any function marked with a plus (**+**) is **mandatory**.
 | **9:00AM-9:05AM**   | **+ Final Day Kickoff +**                  | **Auditorium/Zoom** |
 | **1:00PM** | **+ Entry Round: Videos Due ([form](https://forms.gle/1C5tdUv1ZaMbuEbK6)) +** | **Workstations** |
 | 1:00PM-1:30PM  | Lunch                       | Hallway         |
-| 2:00PM-3:00PM | Workshop: Presenting Presentations 🖌️     | Auditorium/Zoom |
-| **3:45PM**         | **+ Top Teams Announced +**             | Auditorium/Zoom |
-| **4:00PM-6:00PM**         | **+ Final Round: Presentations +**             | Auditorium/Zoom |
+| 1:30PM-2:30PM | Workshop: Presenting Presentations 🖌️     | Auditorium/Zoom |
+| **3:00PM**         | **+ Top Teams Announced +**             | Auditorium/Zoom |
+| **3:30PM-6:00PM**         | **+ Final Round: Presentations +**             | Auditorium/Zoom |
 | 6:00PM-6:30PM   | Dinner                      | Hallway/Auditorium         |
 | **6:30PM-7:00PM**   | **+ Closing Ceremony +**            | **Auditorium/Zoom** |
