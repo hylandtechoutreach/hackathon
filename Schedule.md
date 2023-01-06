@@ -7,7 +7,7 @@ Note that any function marked with a plus (**+**) is **mandatory**.
 
 | Time (ET)     | Function             | Location                     |
 |---------------|----------------------|------------------------------|
-| 3:00PM-3:30PM | Find a Team          | Auditorium/Discord           |
+| 3:00PM-3:30PM | Find a Team          | Auditorium/Zoom           |
 | 3:30PM        | Doors Open for All!  | Employee & Training Entrance |
 | **4:00PM-4:30PM** | **+ Event Kickoff +**        | **Auditorium/Zoom** |
 | 4:30PM-5:00PM | Station Setup | Workstations |
