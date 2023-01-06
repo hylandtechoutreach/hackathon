@@ -1,1 +1,1 @@
-<img src="../Assets/HackathonMap.png" style="max-height: 800px" >
+<img src="../MainEvents/Map.png" style="max-height: 800px" >
