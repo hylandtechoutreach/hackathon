@@ -5,7 +5,7 @@ Tentative
 
 | Start | End | Function | Team Members | Notes |
 |-|-|-|-|-|
-| 9:00 a.m. | 10:00 a.m. | ARRIVAL / BREAKFAST / TEAM MATCHMAKING | Joseph, Caitlin | Caitlin as Matchmaker |
+| 9:00 a.m. | 10:00 a.m. | BREAKFAST / TEAMS FORM | Joseph, Caitlin | Caitlin as Matchmaker |
 | 10:00 a.m. | 10:30 a.m. | EVENT KICK-OFF | Joseph, Caitlin | Actually start at 10:10 a.m. |
 | 10:30 a.m. | 11:00 a.m. | STATION SETUP | Joseph, Caitlin | / |
 | / | 11:00 a.m. | TEAMS ON LOCK | / | / |
