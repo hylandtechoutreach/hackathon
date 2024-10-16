@@ -4,7 +4,7 @@ Tentative
 ## Saturday, January 11, 2025
 
 | Start | End | Function | Location | Team Members |
-|-|-|-|-|
+|-|-|-|-|-|
 | 9:00 a.m. | 10:00 a.m. | ARRIVAL / BREAKFAST / TEAM MATCHMAKING | Joseph, Caitlin as Matchmaker |
 | 10:00 a.m. | 10:30 a.m. | EVENT KICK-OFF | Joseph, Caitlin |
 
