@@ -3,32 +3,40 @@ Tentative
 
 ## Saturday, January 11, 2025
 
-| Start | End | Function | Location | Team Members |
+| Start | End | Function | Team Members | Notes |
 |-|-|-|-|-|
-| 9:00 a.m. | 10:00 a.m. | ARRIVAL / BREAKFAST / TEAM MATCHMAKING | Joseph, Caitlin as Matchmaker |
-| 10:00 a.m. | 10:30 a.m. | EVENT KICK-OFF | Joseph, Caitlin |
+| 9:00 a.m. | 10:00 a.m. | ARRIVAL / BREAKFAST / TEAM MATCHMAKING | Joseph, Caitlin | Caitlin as Matchmaker |
+| 10:00 a.m. | 10:30 a.m. | EVENT KICK-OFF | Joseph, Caitlin | Actually start at 10:10 a.m. |
+| 10:30 a.m. | 11:00 a.m. | STATION SETUP | Joseph, Caitlin | / |
+| / | 11:00 a.m. | TEAMS ON LOCK | / | / |
+| 11:00 a.m. | 12:30 p.m. | BUILDING A WEBSITE | Joseph | Update Content |
+| 12:30 p.m. | 1:00 p.m. | LUNCH | Caitlin | Pickup GE Sandwiches |
+| 1:00 p.m. | 3:00 p.m. | WORK TIME | Joseph | / |
+| 3:00 p.m. | 3:45 p.m. | PIXEL ART | Joseph | Update Content |
+| 5:00 p.m. | 6:00 p.m. | HACKY HOUR | Joseph | Update Content |
+| 6:00 p.m. | 6:30 p.m. | DINNER | Emi | Delivery from Jet's |
+| 6:30 p.m. | 7:00 p.m. | BINARY DATA SESSION | Joseph | New Content |
+| 7:00 p.m. | 8:30 p.m. | WORK TIME | Joseph | / |
+| 8:30 p.m. | 9:00 p.m. | KNOCKOUT | Joseph | / |
+| 9:00 p.m. | 11:00 p.m. | MOVIE NIGHT | Joseph | Toy Story 3 |
+| 11:00 p.m. | 11:59 p.m. | WORK TIME | Joseph | / |
 
+## Sunday, January 12, 2025
 
-EVENT KICK-OFF - 10-10:30am (actually start at 10:10)
-STATION SETUP - 10:30-11am
-TEAMS ON LOCK 11am
-BUILDING A WEBSITE 11am-12:30pm
-LUNCH 12:30-1pm (GE Sandwiches)
-PIXEL ART 3-3:45pm
-HACKY HOUR 5-6pm
-DINNER 6-6:30pm (Jet's Pizza)
-BINARY DATA AND THE FUNDAMENTAL UNIT OF THE UNIVERSE 6:30-7pm
-KNOCKOUT 8:30-9pm
-MOVIE NIGHT: TOY STORY 3 9:30-11pm
-
-
-### Sunday, January 12
-GRAB-N-GO BREAKFAST 8:30-10:30am
-DAY 2 KICK-OFF 9-9:15am
-SOMEONE ELSE DO SOMETHING 10:30am-11:30am (databases? retro games? AI? other game dev? python? twine? processing?)
-LUNCH 1-1:30pm (Jimmy John's Sandwiches)
-VIDEO EDITING TECHNIQUES 1:30-2pm
-ARTIFACT SUBMISSIONS DUE 5pm
-WALL OF FAME VIEWING 5-6pm
-DINNER 6-6:30pm (GE Mac n Cheese + Tenders)
-CLOSING CEREMONY 6:30-7pm
+| Start | End | Function | Team Members | Notes |
+|-|-|-|-|-|
+| 12:00 a.m. | 7:00 a.m. | OVERNIGHT SHIFT | Joseph | I will survive |
+| 7:00 a.m. | 8:30 a.m. | MORNING CHECKS | Caitlin | I will try to sleep |
+| 8:30 a.m. | 9:00 a.m. | GRAB-N-GO BREAKFAST | Caitlin | Maybe McDonald's too? |
+| 9:00 a.m. | 9:15 a.m. | DAY 2 KICK-OFF | Caitlin | / |
+| 9:15 a.m. | 11:00 a.m. | WORK TIME | Caitlin | / |
+| 11:00 a.m. | 12:00 a.m. | ANOTHER WORKSHOP | Someone | Many Options |
+| 12:00 a.m. | 1:00 p.m. | WORK TIME | Caitlin | / |
+| 1:00 p.m. | 1:30 p.m. | LUNCH | Caitlin | Jimmy John's |
+| 1:30 p.m. | 2:00 p.m. | VIDEO EDITING TECHNIQUES | Joseph | New Content |
+| 2:00 p.m. | 5:00 p.m. | WORK TIME | Joseph | / |
+| / | 5:00 p.m. | PROJECT SUBMISSIONS DUE | / | / |
+| 5:00 p.m. | 6:00 p.m. | WALL OF FAME VIEWING | Joseph | / |
+| 6:00 p.m. | 6:30 p.m. | DINNER | Caitlin | Pickup GE Pasta or Tenders |
+| 6:30 p.m. | 7:00 p.m. | CLOSING CEREMONY | Joseph, Caitlin | / |
+| 7:00 p.m. | 8:00 p.m. | CLEANUP | Joseph, Caitlin | That's it |
