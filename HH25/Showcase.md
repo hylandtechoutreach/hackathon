@@ -40,3 +40,10 @@ These can be given to teams or individuals who demonstrate exceptional character
 - Coach (Paul Brown): Whichever individual demonstrated an extraordinary ability to help others, either on their team or on other teams
 - Night Owl(s) (Vanessa Bayer): Whichever individual(s) got the least amount of sleep
 - Future Millionaire (John D. Rockefeller): Whichever team or project showed the most business sense
+
+## Prizes
+I got an Amazon catalog in the mail, and it has a lot of fun slightly smaller prizes. I would sort of rather have a larger number of smaller prizes (vs a smaller number of larger prizes). With the submitted budget of 2000, I think we could do up to 15 "bigger" prizes that are up to $100 each, and then 10 prizes that are up to $50 each:
+
+3 Marquee Award winners x 5 participants per team = 15 participants x $100 prize = $1,500
+
+10 Superlative Award winners x $50 prize = $500

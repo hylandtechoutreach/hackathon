@@ -30,12 +30,12 @@ Tentative
 | 8:30 a.m. | 9:00 a.m. | GRAB-N-GO BREAKFAST | Maybe McDonald's too? |
 | 9:00 a.m. | 9:15 a.m. | DAY 2 KICK-OFF | |
 | 9:15 a.m. | 11:00 a.m. | WORK TIME | |
-| 11:00 a.m. | 12:00 a.m. | DATABASES SESSION | Short version of the [camp](https://github.com/hytechcamps/databases/) |
-| 12:00 a.m. | 1:00 p.m. | WORK TIME | |
+| 11:00 a.m. | 12:00 p.m. | DATABASES SESSION | Short version of the [camp](https://github.com/hytechcamps/databases/) |
+| 12:00 p.m. | 1:00 p.m. | WORK TIME | |
 | 1:00 p.m. | 1:30 p.m. | LUNCH | Jimmy John's |
 | 1:30 p.m. | 2:00 p.m. | VIDEO EDITING TECHNIQUES | New Content |
-| 2:00 p.m. | 2:30 p.m. | APPLICATION DEPLOYMENT | New Content |
-| 2:30 p.m. | 5:00 p.m. | WORK TIME | |
+| 2:30 p.m. | 3:00 p.m. | APPLICATION DEPLOYMENT | New Content |
+| 3:00 p.m. | 5:00 p.m. | WORK TIME | |
 | - | 5:00 p.m. | PROJECT SUBMISSIONS DUE | |
 | 5:00 p.m. | 6:00 p.m. | WALL OF FAME VIEWING | |
 | 6:00 p.m. | 6:30 p.m. | DINNER | Pickup GE Pasta or Tenders |
