@@ -34,8 +34,8 @@ Tentative
 | 12:00 p.m. | 1:00 p.m. | WORK TIME | |
 | 1:00 p.m. | 1:30 p.m. | LUNCH | Jimmy John's |
 | 1:30 p.m. | 2:00 p.m. | VIDEO EDITING TECHNIQUES | New Content |
-| 2:00 p.m. | 2:30 p.m. | APPLICATION DEPLOYMENT | New Content |
-| 2:30 p.m. | 5:00 p.m. | WORK TIME | |
+| 2:30 p.m. | 3:00 p.m. | APPLICATION DEPLOYMENT | New Content |
+| 3:00 p.m. | 5:00 p.m. | WORK TIME | |
 | - | 5:00 p.m. | PROJECT SUBMISSIONS DUE | |
 | 5:00 p.m. | 6:00 p.m. | WALL OF FAME VIEWING | |
 | 6:00 p.m. | 6:30 p.m. | DINNER | Pickup GE Pasta or Tenders |
