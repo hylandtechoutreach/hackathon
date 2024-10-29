@@ -33,11 +33,13 @@ Tentative
 | 11:00 a.m. | 12:00 p.m. | DATABASES SESSION | Short version of the [camp](https://github.com/hytechcamps/databases/) |
 | 12:00 p.m. | 1:00 p.m. | WORK TIME | |
 | 1:00 p.m. | 1:30 p.m. | LUNCH | Jimmy John's |
-| 1:30 p.m. | 2:00 p.m. | VIDEO EDITING TECHNIQUES | New Content |
-| 2:30 p.m. | 3:00 p.m. | APPLICATION DEPLOYMENT | New Content |
+| 1:30 p.m. | 2:00 p.m. | VIDEO EDITING TECHNIQUES* | New Content |
+| 2:30 p.m. | 3:00 p.m. | APPLICATION DEPLOYMENT* | New Content |
 | 3:00 p.m. | 5:00 p.m. | WORK TIME | |
 | - | 5:00 p.m. | PROJECT SUBMISSIONS DUE | |
-| 5:00 p.m. | 6:00 p.m. | WALL OF FAME VIEWING | |
+| 5:00 p.m. | 6:00 p.m. | WALL OF FAME VIEWING / MENTOR REVIEW | |
 | 6:00 p.m. | 6:30 p.m. | DINNER | Pickup GE Pasta or Tenders |
 | 6:30 p.m. | 7:00 p.m. | CLOSING CEREMONY | |
 | 7:00 p.m. | 8:00 p.m. | CLEANUP | That's it |
+
+*May swap out workshops
