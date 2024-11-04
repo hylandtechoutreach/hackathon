@@ -42,4 +42,4 @@ These can be given to teams or individuals who demonstrate exceptional character
 - **Future Millionaire** (John D. Rockefeller): Whichever individual or team showed the most business sense
 
 ## Prizes
-Each team member who wins a Marquee Award will be given a choice between prizes at around a $100 value. This means that the maximum possible budget for Marquee prizes is $1,500. The remaining budget can go toward the Superlative prizes. These may be a selection pre-bought items totalling $500, or there may be a range of choices which we could then order. Prizes are still to be determined.
+Each team member who wins a Marquee Award will be given a choice between prizes at around a $110 value. This means that the maximum possible budget for Marquee prizes is $1,650. The remaining budget can go toward the Superlative prizes. These prizes will be a maximum of $55 value. There can be at least 5 Superlative Awards given. Additional Superlative Awards can be given in the event that the total number of Marquee prizes is less than 15. There should be some budget buffer just in case there are unforeseen price increases or anything like that.
