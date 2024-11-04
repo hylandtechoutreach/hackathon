@@ -11,8 +11,9 @@ Tentative
 | - | 11:00 a.m. | TEAMS ON LOCK | |
 | 11:00 a.m. | 12:30 p.m. | HTML/CSS/JS | Update Content |
 | 12:30 p.m. | 1:00 p.m. | LUNCH | Pickup GE Sandwiches |
-| 1:00 p.m. | 4:00 p.m. | WORK TIME | |
-| 4:00 p.m. | 5:00 p.m. | DATABASES SESSION | Short version of the [camp](https://github.com/hytechcamps/databases/) |
+| 1:00 p.m. | 3:00 p.m. | WORK TIME | |
+| 3:00 p.m. | 4:00 p.m. | SESSION TBD |   |
+| 4:00 p.m. | 5:00 p.m. | WORK TIME | |
 | 5:00 p.m. | 6:00 p.m. | HACKY HOUR | Update Content |
 | 6:00 p.m. | 6:30 p.m. | DINNER | Delivery from Jet's |
 | 6:30 p.m. | 7:00 p.m. | BINARY DATA SESSION | New Content |
