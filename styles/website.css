@@ -31,3 +31,7 @@ div.book-summary {
   color: #006334;
   font-weight: bold;
 }
+
+.markdown-section h1 {
+  margin-bottom: 0px;
+}
