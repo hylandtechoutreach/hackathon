@@ -1,0 +1,207 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+.page-inner {
+    max-width: 1200px;
+}
+
+.navigation {
+    display: none;
+}
+
+.book-body {
+    background: inherit;
+}
+
+* {
+    background: rgb(39, 5, 39);
+    color: rgb(255, 200, 223);
+    font-family: 'Roboto Mono', monospace;
+}
+
+.markdown-section * {
+    font-size: 1em;
+}
+
+.markdown-section code {
+    background: black;
+    border-radius: 15%;
+    font-size: 1em;
+    color: white;
+}
+
+.markdown-section h1,
+.markdown-section h2,
+.markdown-section h3,
+.markdown-section h4,
+.markdown-section h5,
+.markdown-section h6 {
+    margin-bottom: 0px;
+    font-family: 'Space Mono', monospace;
+}
+
+.markdown-section h1 {
+    font-size: 2.4em;
+}
+
+.markdown-section h2 {
+    font-size: 2.5em;
+    border-bottom: 2px solid rgba(255, 200, 223, .8);
+    padding-left: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+    background: rgba(0, 0, 0, .5);
+}
+
+.markdown-section h3 {
+    font-size: 2em;
+}
+
+@media screen and (max-width: 480px) {
+    .markdown-section h1{
+        font-size: 1.5em;
+    }
+
+    .markdown-section h2 {
+        font-size: 1.4em
+    }
+
+    .markdown-section h3 {
+        font-size: 1.2em;
+    }
+
+    .markdown-section * {
+        font-size: .9em;
+    }
+}
+
+.markdown-section a,
+.markdown-section a strong,
+.markdown-section a:visited {
+    color: #ff40a2;
+}
+
+.book-summary ul.summary li a {
+    color: rgb(255, 200, 223);
+    font-size: 1.2em;
+}
+
+.book-summary ul.summary li.active > a {
+    color: white;
+}
+
+.book-summary,
+.book-summary ul.summary,
+.book-summary ul.summary li,
+.book-summary ul.summary li ul {
+    background: rgb(65, 5, 65);
+}
+
+.font-settings {
+    display: none;
+}
+
+#book-search-input {
+    background: rgb(39, 5, 39);
+}
+
+#book-search-input input::placeholder {
+    color: rgb(192, 192, 192);
+}
+
+.markdown-section blockquote {
+    border-left: 4px solid rgb(255, 200, 223);
+    background: black;
+    padding: 5px 20px;
+}
+
+.markdown-section blockquote p {
+    color: rgb(235, 180, 203);
+    background: black;
+    font-style: italic;
+}
+
+.markdown-section strong {
+    font-size: 1.1em;
+}
+
+.markdown-section table tr {
+    background: rgb(85, 10, 72);
+    font-size: 1.1em;
+}
+
+.markdown-section table tr td {
+    background: inherit;
+    padding: 12px;
+}
+
+.markdown-section table tr:nth-child(2n) {
+    background: rgb(95, 29, 84);
+}
+
+.markdown-section table tr strong {
+    background: inherit;
+}
+
+.markdown-section th {
+    background: black;
+    color: white;
+}
+
+.markdown-section table tr td, .markdown-section table tr th {
+    border-color: black;
+}
+
+.book-summary ul.summary li a.gitbook-link {
+    display: none;
+}
+
+.markdown-section pre, .markdown-section pre span {
+    background: black;
+}
+
+::-webkit-scrollbar {
+    width:10px;
+}
+
+::-webkit-scrollbar-track {
+    background: rgba(39, 5, 39, 0);
+}
+
+::-webkit-scrollbar-thumb {
+    background: rgb(116, 38, 103, .5);
+    border-radius: 20px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: rgb(160, 64, 144, .75);
+}
+
+::-webkit-scrollbar-thumb:active {
+    background: rgb(219, 109, 199);
+}
+
+div#before-pixel-grid-table + table tbody td {
+    text-align: center;
+}
+
+div#before-pixel-grid-table + table tbody td:nth-child(1) {
+    background: green;
+}
+
+div#before-pixel-grid-table + table tbody td:nth-child(2) {
+    background: #292929;
+}
+
+div#before-pixel-grid-table + table tbody td:nth-child(3) {
+    background: #d8d815;
+}
+
+div#before-pixel-grid-table + table tbody td:nth-child(4) {
+    background: #2929c1;
+}
+
+div#before-pixel-grid-table + table {
+    max-width:400px;
+}

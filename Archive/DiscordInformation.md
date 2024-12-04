@@ -1,8 +1,10 @@
 # Discord Information
+_Communication is key._
+
 We will use [Discord](https://discord.com/) as a way for students and mentors to communicate during the event.
 
 ## Invite Link
-[Click here to join the Discord Server.](https://discord.gg/pufaaWJaAH)
+[Click here to join the Discord Server.](https://discord.gg/ah6678uzWA)
 
 ## Parental Consent Form Agreement 
 As noted in the parental consent form that was signed by Parents or Guardians, each student has agreed to the following regarding the use of Discord: 
@@ -17,7 +19,7 @@ As noted in the parental consent form that was signed by Parents or Guardians, e
     - Follow [these instructions](https://support.discord.com/hc/en-us/articles/219070107-Server-Nicknames) to update your Server Nickname
 - If you say anything inappropriate, you will be banned from the server and may be removed from the event
 - Please be respectful of all attendees and mentors while communicating on Discord
-- Mentors will check Discord frequently, so feel free to post any time
+- [Mentors](DuringTheEvent/Mentors.md) will check Discord frequently, so feel free to post any time
     - Tag the `@mentors` role to reach them
 
 Review the information below if you need help getting into Discord for the first time, or you want to learn about the operation and structure of the Hackathon server.
@@ -82,11 +84,32 @@ This channel is reserved for general chat. Get to know your fellow participants,
 #### questions
 Have a question about the event, or about your project development? Post it here, and event coordinators, mentors, and fellow participants might be able to help you out.
 
+### DIVISION CHANNELS
+These channels are specific to each individual student. You'll only have access to the channels that apply to you.
+
+#### in-person
+This channel is for students attending the event **in-person** at Hyland HQ.
+
+#### virtual
+This channel is for students attending the event **virtually**.
+
+#### explorer
+In this channel, students following the **explorer** track can chat with each other.
+
+#### artisan
+In this channel, students following the **artisan** track can chat with each other.
+
+#### scientist
+In this channel, students following the **scientist** track can chat with each other.
+
+#### high-school
+This channel is for all the high school students attending the event.
+
+#### college
+This channel is for all the college students attending the event.
+
 ### OFF TOPIC CHANNELS
 These channels are strictly for fun!
-
-#### chat
-This channel is for general off-topic chat. Make sure to keep it appropriate, but you're welcome to discuss any topics you'd like!
 
 #### counting
 This channel is for counting. Post sequential whole numbers, and do not post two numbers in a row.
@@ -94,5 +117,5 @@ This channel is for counting. Post sequential whole numbers, and do not post two
 #### counting-discussion
 Discuss the happenings of the `#counting` channel.
 
-#### no-words-only-pictures
-What it sounds like. You're only allowed to post pictures. No words. Only pictures.
+### TEAM CHANNELS
+Once teams are formed, the Team Channels category will include channels for each individual team (if necessary). These will be especially helpful for virtual attendees. Let us know if you need us to create a Voice channel for you!
