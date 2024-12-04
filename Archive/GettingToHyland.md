@@ -1,4 +1,6 @@
-# Getting to Hyland
+# Location & Directions
+_Chart your course to Hackathon glory._
+
 The in-person event will take place at Hyland's Building 3: [28105 Clemens Rd, Westlake, OH 44145](https://goo.gl/maps/FgcuhNcyzFZZTqWd8)
 
 ![](Assets/VisitingHyland.png)

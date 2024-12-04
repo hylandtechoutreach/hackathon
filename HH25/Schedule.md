@@ -9,10 +9,10 @@ Tentative
 | 10:00 a.m. | 10:30 a.m. | EVENT KICK-OFF | Actually start at 10:10 a.m. |
 | 10:30 a.m. | 11:00 a.m. | STATION SETUP | |
 | - | 11:00 a.m. | TEAMS ON LOCK | |
-| 11:00 a.m. | 12:30 p.m. | HTML/CSS/JS | Update Content |
+| 11:00 a.m. | 12:30 p.m. | WEB WORLD | Update Content |
 | 12:30 p.m. | 1:00 p.m. | LUNCH | Pickup GE Sandwiches |
 | 1:00 p.m. | 3:00 p.m. | WORK TIME | |
-| 3:00 p.m. | 4:00 p.m. | SESSION TBD |   |
+| 3:00 p.m. | 4:00 p.m. | DATABASED |   |
 | 4:00 p.m. | 5:00 p.m. | WORK TIME | |
 | 5:00 p.m. | 6:00 p.m. | HACKY HOUR | Update Content |
 | 6:00 p.m. | 6:30 p.m. | DINNER | Delivery from Jet's |
@@ -34,7 +34,7 @@ Tentative
 | 11:00 a.m. | 12:00 p.m. | PIXEL ART | Update Content |
 | 12:00 p.m. | 1:00 p.m. | WORK TIME | |
 | 1:00 p.m. | 1:30 p.m. | LUNCH | Jimmy John's |
-| 2:00 p.m. | 3:00 p.m. | ACTIVITY | tbd |
+| 2:00 p.m. | 3:00 p.m. | VIDEO EDITING | tbd |
 | 3:00 p.m. | 5:00 p.m. | WORK TIME | |
 | - | 5:00 p.m. | PROJECT SUBMISSIONS DUE | |
 | 5:00 p.m. | 6:00 p.m. | WALL OF FAME VIEWING / MENTOR REVIEW | |
