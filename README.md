@@ -4,7 +4,7 @@
 Your journey begins here. To prepare for your experience, here are some important items to complete:
 
 <ul style="list-style-type: none">
-  <input type="checkbox" id="item1" checked> Visit this website<br>
+  <input type="checkbox" id="item1" class="pre-checked" disabled> Visit this website<br>
   <input type="checkbox" id="item2"> Make sure you have a <a href="AdmissionForms.md">consent form</a> on file<br>
   <input type="checkbox" id="item3"> Join the <a href="https://discord.gg/pufaaWJaAH">Discord Server</a><br>
   <input type="checkbox" id="item4"> Choose a <a href="Tracks.md">Track</a> to follow<br>
@@ -20,11 +20,15 @@ Your journey begins here. To prepare for your experience, here are some importan
     const elementId = `${inputElement.id}`;
 
     inputElement.checked = localStorage.getItem(elementId) === 'checked';
+    if (inputElement.classList.contains("pre-checked")) {
+      inputElement.checked = true;
+    }
+
     inputElement.onchange = e => {
       if (e.target.checked) {
         localStorage.setItem(elementId, 'checked');
       } else {
-          localStorage.setItem(elementId, 'not-checked');
+        localStorage.setItem(elementId, 'not-checked');
       }
     };
   });
